@@ -176,7 +176,7 @@ entries: map[hash,embed] = {
                     submesh: string = "Mat_Body"
                 }
                 SkinMeshDataProperties_MaterialOverride {
-                    material: link = 0x240099e5
+                    material: link = "Characters/Yone/Skins/Skin0/Materials/GhostBladePanning_inst"
                     submesh: string = "GhostKatana"
                 }
                 SkinMeshDataProperties_MaterialOverride {
@@ -16113,7 +16113,7 @@ entries: map[hash,embed] = {
                         subMeshName: option[string] = {
                             "Mat_GhostBlades"
                         }
-                        material: link = 0x240099e5
+                        material: link = "Characters/Yone/Skins/Skin0/Materials/GhostBladePanning_inst"
                         transitionSample: f32 = 0.1953125
                     }
                 }
@@ -22185,43 +22185,43 @@ entries: map[hash,embed] = {
             0xc44eb555 = 0x161c9300
         }
     }
-    0x240099e5 = StaticMaterialDef {
+    "Characters/Yone/Skins/Skin0/Materials/GhostBladePanning_inst" = StaticMaterialDef {
         name: string = "Characters/Yone/Skins/Skin0/Materials/GhostBladePanning_inst"
         samplerValues: list2[embed] = {
             StaticMaterialShaderSamplerDef {
                 samplerName: string = "Diffuse_Texture"
-                textureName: string = "ASSETS/Characters/Yone/Skins/Base/Mat_GhostBlade.dds"
+                texturePath: string = "ASSETS/Characters/Yone/Skins/Base/Mat_GhostBlade.dds"
                 addressU: u32 = 1
                 addressV: u32 = 1
                 addressW: u32 = 1
             }
             StaticMaterialShaderSamplerDef {
                 samplerName: string = "Scroll_01"
-                textureName: string = "ASSETS/Characters/Yone/Skins/Base/yone_ghostblade_mat.dds"
+                texturePath: string = "ASSETS/Characters/Yone/Skins/Base/yone_ghostblade_mat.dds"
                 addressW: u32 = 1
             }
             StaticMaterialShaderSamplerDef {
                 samplerName: string = "Mask"
-                textureName: string = "ASSETS/Characters/Yone/Skins/Base/yone_ghostblade_mat.dds"
+                texturePath: string = "ASSETS/Characters/Yone/Skins/Base/yone_ghostblade_mat.dds"
                 addressU: u32 = 1
                 addressV: u32 = 1
                 addressW: u32 = 1
             }
             StaticMaterialShaderSamplerDef {
                 samplerName: string = "Scroll_02"
-                textureName: string = "ASSETS/Characters/Yone/Skins/Base/yone_ghostblade_mat.dds"
+                texturePath: string = "ASSETS/Characters/Yone/Skins/Base/yone_ghostblade_mat.dds"
                 addressW: u32 = 1
             }
             StaticMaterialShaderSamplerDef {
                 samplerName: string = "Scroll_03"
-                textureName: string = "ASSETS/Characters/Yone/Skins/Base/yone_ghostblade_mat.dds"
+                texturePath: string = "ASSETS/Characters/Yone/Skins/Base/yone_ghostblade_mat.dds"
                 addressW: u32 = 1
             }
         }
         paramValues: list2[embed] = {
             StaticMaterialShaderParamDef {
                 name: string = "Panning_Noise_Color"
-                value: vec4 = { 0.0901960805, 0.247058824, 0.282352954, 1 }
+                value: vec4 = { 0.333333343, 0.0823529437, 0.68235296, 1 }
             }
             StaticMaterialShaderParamDef {
                 name: string = "Texture_UV_Scale01"
@@ -22229,7 +22229,7 @@ entries: map[hash,embed] = {
             }
             StaticMaterialShaderParamDef {
                 name: string = "ScrollTexture_Control01"
-                value: vec4 = { -0.300000012, 0, 0, 0 }
+                value: vec4 = { -0.3, 0.15, 0, 0 }
             }
             StaticMaterialShaderParamDef {
                 name: string = "Texture_UV_Scale02"
