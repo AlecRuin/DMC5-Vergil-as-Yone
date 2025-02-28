@@ -3,11 +3,11 @@ type: string = "PROP"
 version: u32 = 3
 linked: list[string] = {
     "DATA/Yone_Skins_Skin0_Skins_Skin10_Skins_Skin11_Skins_Skin12_Skins_Skin13_Skins_Skin14_Skins_Skin15_Skins_Skin16_Skins_Skin17_Skins_Skin18_Skins_Skin19_Skins_Skin20_Skins_Skin21_Skins_Skin22_Skins_Skin23_Skins_Skin24_Skins_Skin25_Skins_Skin35_Skins_Skin36_Skins_Skin37_Skins_Skin38_Skins_Skin39_Skins_Skin40_Skins_Skin41_Skins_Skin42_Skins_Skin43_Skins_Skin44_Skins_Skin55_Skins_Skin59_Skins_Skin60_Skins_Skin61_Skins_Skin62_Skins_Skin63_Skins_Skin64.bin"
+    "DATA/Yone_Skins_Root_Skins_Skin0_Skins_Skin1_Skins_Skin10_Skins_Skin11_Skins_Skin12_Skins_Skin13_Skins_Skin14_Skins_Skin15_Skins_Skin16_Skins_Skin17_Skins_Skin18_Skins_Skin2_Skins_Skin26_Skins_Skin27_Skins_Skin28_Skins_Skin29_Skins_Skin3_Skins_Skin30_Skins_Skin31_Skins_Skin32_Skins_Skin33_Skins_Skin34_Skins_Skin35_Skins_Skin36_Skins_Skin37_Skins_Skin38_Skins_Skin39_Skins_Skin4_Skins_Skin40_Skins_Skin41_Skins_Skin42_Skins_Skin43_Skins_Skin44_Skins_Skin45_Skins_Skin46_Skins_Skin47_Skins_Skin48_Skins_Skin49_Skins_Skin5_Skins_Skin50_Skins_Skin51_Skins_Skin52_Skins_Skin53_Skins_Skin54_Skins_Skin56_Skins_Skin6_Skins_Skin65_Skins_Skin66_Skins_Skin67_Skins_Skin68_Skins_Skin69_Skins_Skin7_Skins_Skin70_Skins_Skin71_Skins_Skin72_Skins_Skin73_Skins_Skin8_Skins_Skin9.bin"
     "DATA/Characters/Yone/Yone.bin"
-    "DATA/Yone_Skins_Root_Skins_Skin0_Skins_Skin1_Skins_Skin10_Skins_Skin11_Skins_Skin12_Skins_Skin13_Skins_Skin14_Skins_Skin15_Skins_Skin16_Skins_Skin17_Skins_Skin18_Skins_Skin2_Skins_Skin26_Skins_Skin27_Skins_Skin28_Skins_Skin29_Skins_Skin3_Skins_Skin30_Skins_Skin31_Skins_Skin32_Skins_Skin33_Skins_Skin34_Skins_Skin35_Skins_Skin36_Skins_Skin37_Skins_Skin38_Skins_Skin39_Skins_Skin4_Skins_Skin40_Skins_Skin41_Skins_Skin42_Skins_Skin43_Skins_Skin44_Skins_Skin45_Skins_Skin46_Skins_Skin47_Skins_Skin48_Skins_Skin49_Skins_Skin5_Skins_Skin50_Skins_Skin51_Skins_Skin52_Skins_Skin53_Skins_Skin54_Skins_Skin56_Skins_Skin6_Skins_Skin7_Skins_Skin8_Skins_Skin9.bin"
     "DATA/Characters/Yone/Animations/Skin0.bin"
-    "DATA/Yone_Skins_Skin0_Skins_Skin1_Skins_Skin10_Skins_Skin11_Skins_Skin12_Skins_Skin13_Skins_Skin14_Skins_Skin15_Skins_Skin16_Skins_Skin17_Skins_Skin18_Skins_Skin19_Skins_Skin2_Skins_Skin20_Skins_Skin21_Skins_Skin22_Skins_Skin23_Skins_Skin24_Skins_Skin25_Skins_Skin26_Skins_Skin27_Skins_Skin28_Skins_Skin29_Skins_Skin3_Skins_Skin30_Skins_Skin31_Skins_Skin32_Skins_Skin33_Skins_Skin34_Skins_Skin35_Skins_Skin36_Skins_Skin37_Skins_Skin38_Skins_Skin39_Skins_Skin4_Skins_Skin40_Skins_Skin41_Skins_Skin42_Skins_Skin43_Skins_Skin44_Skins_Skin45_Skins_Skin46_Skins_Skin47_Skins_Skin48_Skins_Skin49_Skins_Skin5_Skins_Skin50_Skins_Skin51_Skins_Skin52_Skins_Skin53_Skins_Skin54_Skins_Skin55_Skins_Skin56_Skins_Skin58_Skins_Skin59_Skins_Skin6_Skins_Skin60_Skins_Skin61_Skins_Skin62_Skins_Skin63_Skins_Skin64_Skins_Skin7_Skins_Skin8_Skins_Skin9.bin"
     "DATA/Yone_Skins_Skin0_Skins_Skin10_Skins_Skin11_Skins_Skin12_Skins_Skin13_Skins_Skin14_Skins_Skin15_Skins_Skin16_Skins_Skin17_Skins_Skin18_Skins_Skin35_Skins_Skin36_Skins_Skin37_Skins_Skin38_Skins_Skin39_Skins_Skin40_Skins_Skin41_Skins_Skin42_Skins_Skin43_Skins_Skin44.bin"
+    "DATA/Yone_Skins_Skin0_Skins_Skin1_Skins_Skin10_Skins_Skin11_Skins_Skin12_Skins_Skin13_Skins_Skin14_Skins_Skin15_Skins_Skin16_Skins_Skin17_Skins_Skin18_Skins_Skin19_Skins_Skin2_Skins_Skin20_Skins_Skin21_Skins_Skin22_Skins_Skin23_Skins_Skin24_Skins_Skin25_Skins_Skin26_Skins_Skin27_Skins_Skin28_Skins_Skin29_Skins_Skin3_Skins_Skin30_Skins_Skin31_Skins_Skin32_Skins_Skin33_Skins_Skin34_Skins_Skin35_Skins_Skin36_Skins_Skin37_Skins_Skin38_Skins_Skin39_Skins_Skin4_Skins_Skin40_Skins_Skin41_Skins_Skin42_Skins_Skin43_Skins_Skin44_Skins_Skin45_Skins_Skin46_Skins_Skin47_Skins_Skin48_Skins_Skin49_Skins_Skin5_Skins_Skin50_Skins_Skin51_Skins_Skin52_Skins_Skin53_Skins_Skin54_Skins_Skin55_Skins_Skin56_Skins_Skin58_Skins_Skin59_Skins_Skin6_Skins_Skin60_Skins_Skin61_Skins_Skin62_Skins_Skin63_Skins_Skin64_Skins_Skin65_Skins_Skin66_Skins_Skin67_Skins_Skin68_Skins_Skin69_Skins_Skin7_Skins_Skin70_Skins_Skin71_Skins_Skin72_Skins_Skin73_Skins_Skin8_Skins_Skin9.bin"
     "DATA/Yone_Skins_Skin0_Skins_Skin1_Skins_Skin10_Skins_Skin11_Skins_Skin12_Skins_Skin13_Skins_Skin14_Skins_Skin15_Skins_Skin16_Skins_Skin17_Skins_Skin18_Skins_Skin19_Skins_Skin2_Skins_Skin20_Skins_Skin21_Skins_Skin22_Skins_Skin23_Skins_Skin24_Skins_Skin25_Skins_Skin3_Skins_Skin35_Skins_Skin36_Skins_Skin37_Skins_Skin38_Skins_Skin39_Skins_Skin4_Skins_Skin40_Skins_Skin41_Skins_Skin42_Skins_Skin43_Skins_Skin44_Skins_Skin5_Skins_Skin6_Skins_Skin7_Skins_Skin8_Skins_Skin9.bin"
     "DATA/Yone_Skins_Skin0_Skins_Skin1_Skins_Skin10_Skins_Skin11_Skins_Skin12_Skins_Skin13_Skins_Skin14_Skins_Skin15_Skins_Skin16_Skins_Skin17_Skins_Skin18_Skins_Skin19_Skins_Skin2_Skins_Skin20_Skins_Skin21_Skins_Skin22_Skins_Skin23_Skins_Skin24_Skins_Skin25_Skins_Skin3_Skins_Skin4_Skins_Skin5_Skins_Skin6_Skins_Skin7_Skins_Skin8_Skins_Skin9.bin"
     "DATA/Yone_Skins_Skin0_Skins_Skin1_Skins_Skin10_Skins_Skin11_Skins_Skin12_Skins_Skin13_Skins_Skin14_Skins_Skin15_Skins_Skin16_Skins_Skin17_Skins_Skin18_Skins_Skin2_Skins_Skin3_Skins_Skin4_Skins_Skin5_Skins_Skin6_Skins_Skin7_Skins_Skin8_Skins_Skin9.bin"
@@ -22,7 +22,7 @@ entries: map[hash,embed] = {
         championSkinName: string = "Yone"
         metaDataTags: string = "gender:male,faction:ionia,race:human"
         loadscreen: embed = CensoredImage {
-            image: string = "ASSETS/Characters/Yone/Skins/Base/YoneLoadScreen.dds"
+            image: string = "ASSETS/Characters/Yone/Skins/Base/YoneLoadscreen.dds"
         }
         skinAudioProperties: embed = skinAudioProperties {
             tagEventList: list[string] = {
@@ -169,7 +169,7 @@ entries: map[hash,embed] = {
                 { 230, 180, 230 }
             }
             reflectionFresnelColor: rgba = { 0, 0, 0, 255 }
-            initialSubmeshToHide: string = "Bow_Smear, Fish, Sushi, Azakana,Instrument"
+            initialSubmeshToHide: string = "Bow_Smear Fish Sushi Instrument Azakana"
             materialOverride: list[embed] = {
                 SkinMeshDataProperties_MaterialOverride {
                     texture: string = "ASSETS/Characters/Yone/Skins/Base/VergilTexture.dds"
@@ -267,7 +267,7 @@ entries: map[hash,embed] = {
         }
         healthBarData: embed = CharacterHealthBarDataRecord {
             attachToBone: string = "Buffbone_Cstm_Healthbar"
-            unitHealthBarStyle: u8 = 11
+            unitHealthBarStyle: u8 = 12
         }
         mResourceResolver: link = "Characters/Yone/Skins/Skin0/Resources"
     }
@@ -914,7 +914,7 @@ entries: map[hash,embed] = {
                 particleColorTexture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Color_Yone_w_windwall_dust.dds"
                 blendMode: u8 = 1
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0, 0.0117647061, 0.180392161, 0.5 }
+                    constantValue: vec4 = { 0.179995418, 0, 0, 0.500007629 }
                 }
                 miscRenderFlags: u8 = 1
                 particleIsLocalOrientation: flag = true
@@ -1004,6 +1004,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 1
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -1159,7 +1174,7 @@ entries: map[hash,embed] = {
                 particleColorTexture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Color_Yone_w_windwall_dust.dds"
                 blendMode: u8 = 4
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0, 0.250980407, 1, 1 }
+                    constantValue: vec4 = { 1, 0, 0.0470588244, 1 }
                 }
                 pass: i16 = 1
                 miscRenderFlags: u8 = 1
@@ -1244,7 +1259,7 @@ entries: map[hash,embed] = {
                 }
                 particleColorTexture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Color_Yone_w_windwall_dust.dds"
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0.639215708, 0.749019623, 1, 0.5 }
+                    constantValue: vec4 = { 1, 0.647058845, 0.694117665, 0.501960814 }
                 }
                 pass: i16 = 2
                 miscRenderFlags: u8 = 1
@@ -1342,12 +1357,12 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.0196078438, 0.345098048, 1, 0 }
-                            { 0.0196078438, 0.345098048, 1, 1 }
-                            { 0.0196078438, 0.345098048, 1, 0.995098054 }
-                            { 0.0196078438, 0.345098048, 1, 0.892156839 }
-                            { 0.0196078438, 0.345098048, 1, 0.117647059 }
-                            { 0.0196078438, 0.345098048, 1, 0 }
+                            { 1, 0.0235294122, 0.396078438, 0 }
+                            { 1, 0.0235294122, 0.396078438, 1 }
+                            { 1, 0.0235294122, 0.396078438, 0.995098054 }
+                            { 0.99999994, 0.0235294104, 0.396078408, 0.892156839 }
+                            { 1, 0.0235294122, 0.396078438, 0.117647059 }
+                            { 1, 0.0235294122, 0.396078438, 0 }
                         }
                     }
                 }
@@ -1410,7 +1425,7 @@ entries: map[hash,embed] = {
                 }
                 blendMode: u8 = 1
                 birthColor: embed = ValueColor {
-                    constantValue: vec4 = { 0.0784313753, 0.105882354, 0.521568656, 0.75 }
+                    constantValue: vec4 = { 0.530006886, 0.0800030529, 0.0800030529, 0.749996185 }
                 }
                 color: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
@@ -1505,14 +1520,14 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.678431392, 0.894117653, 1, 0 }
-                            { 0.678431392, 0.894117653, 1, 0.0236616004 }
-                            { 0.678431392, 0.894117653, 1, 0.1720054 }
-                            { 0.678431392, 0.894117653, 1, 0.200000003 }
-                            { 0.678431392, 0.894117653, 1, 0.176530197 }
-                            { 0.678431392, 0.894117653, 1, 0.1013574 }
-                            { 0.678431392, 0.894117653, 1, 0.0262616016 }
-                            { 0.678431392, 0.894117653, 1, 0 }
+                            { 1, 0.669993162, 0.839993894, 0 }
+                            { 1, 0.669993162, 0.839993894, 0.0236616004 }
+                            { 1, 0.669993162, 0.839993894, 0.1720054 }
+                            { 1, 0.669993162, 0.839993894, 0.200000003 }
+                            { 1, 0.669993162, 0.839993894, 0.176530197 }
+                            { 1, 0.669993162, 0.839993894, 0.1013574 }
+                            { 1, 0.669993162, 0.839993894, 0.0262616016 }
+                            { 1, 0.669993162, 0.839993894, 0 }
                         }
                     }
                 }
@@ -1574,7 +1589,7 @@ entries: map[hash,embed] = {
                 }
                 blendMode: u8 = 1
                 birthColor: embed = ValueColor {
-                    constantValue: vec4 = { 0.380392164, 0.588235319, 1, 1 }
+                    constantValue: vec4 = { 1, 0.384313732, 0.423529416, 1 }
                 }
                 color: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
@@ -1661,10 +1676,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.478431374, 0.800000012, 1, 0.877451003 }
-                            { 0.478431374, 0.800000012, 1, 0.411764681 }
-                            { 0.478431374, 0.800000012, 1, 0.12254902 }
-                            { 0.478431374, 0.800000012, 1, 0 }
+                            { 1, 0.470588237, 0.815686285, 0.877451003 }
+                            { 1, 0.470588237, 0.815686285, 0.411764681 }
+                            { 1, 0.470588237, 0.815686285, 0.12254902 }
+                            { 1, 0.470588237, 0.815686285, 0 }
                         }
                     }
                 }
@@ -1731,9 +1746,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.168627456, 0, 1, 1 }
-                            { 0.168627456, 0, 1, 0.300007641 }
-                            { 0.168627456, 0, 1, 0 }
+                            { 1, 0, 0.298039228, 1 }
+                            { 1, 0, 0.298039228, 0.300007641 }
+                            { 1, 0, 0.298039228, 0 }
                         }
                     }
                 }
@@ -1895,10 +1910,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 0 }
-                            { 0, 0.333333343, 1, 0 }
+                            { 1, 0, 0, 1 }
+                            { 1, 0, 0, 1 }
+                            { 1, 0, 0, 0 }
+                            { 1, 0, 0, 0 }
                         }
                     }
                 }
@@ -2063,7 +2078,7 @@ entries: map[hash,embed] = {
                 }
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
-                    constantValue: vec4 = { 0.192156866, 0.101960786, 1, 1 }
+                    constantValue: vec4 = { 1, 0.101960786, 0.192156866, 1 }
                 }
                 color: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
@@ -2133,11 +2148,11 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0, 1, 0 }
-                            { 0, 0, 1, 0 }
-                            { 0, 0, 1, 0.300007641 }
-                            { 0, 0, 1, 0.300007641 }
-                            { 0, 0, 1, 0 }
+                            { 1, 0, 0, 0 }
+                            { 1, 0, 0, 0 }
+                            { 1, 0, 0, 0.300007641 }
+                            { 1, 0, 0, 0.300007641 }
+                            { 1, 0, 0, 0 }
                         }
                     }
                 }
@@ -2317,11 +2332,11 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.215686277, 0, 1, 0 }
-                            { 0.215686277, 0, 1, 0 }
-                            { 0.215686277, 0, 1, 1 }
-                            { 0.215686277, 0, 1, 1 }
-                            { 0.215686277, 0, 1, 0 }
+                            { 1, 0, 0.215686277, 0 }
+                            { 1, 0, 0.215686277, 0 }
+                            { 1, 0, 0.215686277, 1 }
+                            { 1, 0, 0.215686277, 1 }
+                            { 1, 0, 0.215686277, 0 }
                         }
                     }
                 }
@@ -2433,10 +2448,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.0470588244, 0.0470588244, 0.168627456, 0 }
-                            { 0.0470588244, 0.0470588244, 0.168627456, 1 }
-                            { 0.0470588244, 0.0470588244, 0.168627456, 1 }
-                            { 0.0470588244, 0.0470588244, 0.168627456, 0 }
+                            { 0.168627456, 0.0470588244, 0.0470588244, 0 }
+                            { 0.168627456, 0.0470588244, 0.0470588244, 1 }
+                            { 0.168627456, 0.0470588244, 0.0470588244, 1 }
+                            { 0.168627456, 0.0470588244, 0.0470588244, 0 }
                         }
                     }
                 }
@@ -2516,10 +2531,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.431372553, 1, 0 }
-                            { 0, 0.431372553, 1, 0 }
-                            { 0, 0.431372553, 1, 0.501960814 }
-                            { 0, 0.431372553, 1, 0.501960814 }
+                            { 1, 0, 0.23137255, 0 }
+                            { 1, 0, 0.23137255, 0 }
+                            { 1, 0, 0.23137255, 0.501960814 }
+                            { 1, 0, 0.23137255, 0.501960814 }
                         }
                     }
                 }
@@ -2634,7 +2649,7 @@ entries: map[hash,embed] = {
                 }
                 blendMode: u8 = 4
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0.180392161, 0.796078444, 1, 0.5 }
+                    constantValue: vec4 = { 1, 0.192156866, 0.784313738, 0.501960814 }
                 }
                 pass: i16 = 501
                 alphaRef: u8 = 0
@@ -2704,7 +2719,7 @@ entries: map[hash,embed] = {
                 }
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
-                    constantValue: vec4 = { 0.192156866, 0.101960786, 1, 1 }
+                    constantValue: vec4 = { 1, 0.101960786, 0.192156866, 1 }
                 }
                 color: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
@@ -2796,6 +2811,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -3156,7 +3186,7 @@ entries: map[hash,embed] = {
                 }
                 blendMode: u8 = 5
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0.290196091, 0.435294122, 0.768627465, 0.680000007 }
+                    constantValue: vec4 = { 0.509803951, 0.176470593, 0.180392161, 0.68235296 }
                 }
                 pass: i16 = 150
                 alphaRef: u8 = 10
@@ -3305,11 +3335,11 @@ entries: map[hash,embed] = {
                             0.5
                         }
                         values: list[vec4] = {
-                            { 0.0588235296, 0.356862754, 1, 0.631372571 }
-                            { 0.0588235296, 0.356862754, 1, 0.631372511 }
-                            { 0.0588235296, 0.356862754, 1, 0.183221832 }
-                            { 0.0588235296, 0.356862754, 1, 0.086658977 }
-                            { 0, 0, 0, 0 }
+                            { 0.384759724, 0.173825458, 0.294917345, 0.631372571 }
+                            { 0.498039216, 0.0156247607, 0.34569782, 0.631372511 }
+                            { 0.208981156, 0, 0, 0.183221832 }
+                            { 0.111326411, 0.0195309501, 0.0410149954, 0.086658977 }
+                            { 0.0348593257, 0.0199185293, 0.0796893165, 0 }
                         }
                     }
                 }
@@ -3467,8 +3497,8 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 0 }
+                            { 1, 0, 0.0156862754, 1 }
+                            { 1, 0, 0.0156862754, 0 }
                         }
                     }
                 }
@@ -3534,8 +3564,8 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 0 }
+                            { 1, 0, 0.0156862754, 1 }
+                            { 1, 0, 0.0156862754, 0 }
                         }
                     }
                 }
@@ -3678,6 +3708,25 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    0.095238097
+                                    0.266666681
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    1
+                                    1
+                                    0.180899903
+                                    0
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -5581,6 +5630,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -5601,12 +5665,12 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.101960786, 0.564705908, 1, 0 }
-                            { 0.101960786, 0.564705908, 1, 1 }
-                            { 0.101960786, 0.564705908, 1, 0.897058845 }
-                            { 0.101960786, 0.564705908, 1, 0.80392158 }
-                            { 0.101960786, 0.564705908, 1, 0.112745099 }
-                            { 0.101960786, 0.564705908, 1, 0 }
+                            { 1, 0.0980392173, 0.0980392173, 0 }
+                            { 1, 0.0980392173, 0.0980392173, 1 }
+                            { 1, 0.0980392173, 0.0980392173, 0.897058845 }
+                            { 1, 0.0980392173, 0.0980392173, 0.80392158 }
+                            { 1, 0.0980392173, 0.0980392173, 0.112745099 }
+                            { 1, 0.0980392173, 0.0980392173, 0 }
                         }
                     }
                 }
@@ -5729,7 +5793,7 @@ entries: map[hash,embed] = {
                 particleColorTexture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Color_Yone_w_windwall_dust.dds"
                 blendMode: u8 = 1
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0, 0, 0.513725519, 0.5 }
+                    constantValue: vec4 = { 0.513725519, 0, 0, 0.501960814 }
                 }
                 miscRenderFlags: u8 = 1
                 particleIsLocalOrientation: flag = true
@@ -5842,7 +5906,7 @@ entries: map[hash,embed] = {
                 particleColorTexture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Color_Yone_w_windwall_dust.dds"
                 blendMode: u8 = 1
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0, 0.172549024, 0.521568656, 0.5 }
+                    constantValue: vec4 = { 0.474509805, 0, 0, 0.501960814 }
                 }
                 miscRenderFlags: u8 = 1
                 particleIsLocalOrientation: flag = true
@@ -6144,9 +6208,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 0 }
+                            { 1, 0, 0, 1 }
+                            { 1, 0, 0, 1 }
+                            { 1, 0, 0, 0 }
                         }
                     }
                 }
@@ -6217,10 +6281,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 0 }
+                            { 1, 0, 0.0666666701, 1 }
+                            { 1, 0, 0.0666666701, 1 }
+                            { 1, 0, 0.0666666701, 1 }
+                            { 1, 0, 0.0666666701, 0 }
                         }
                     }
                 }
@@ -6295,10 +6359,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.149019614, 0, 0.376470596, 1 }
-                            { 0.149019614, 0, 0.376470596, 1 }
-                            { 0.149019614, 0, 0.376470596, 1 }
-                            { 0.149019614, 0, 0.376470596, 0 }
+                            { 0.376470596, 0, 0.149019614, 1 }
+                            { 0.376470596, 0, 0.149019614, 1 }
+                            { 0.376470596, 0, 0.149019614, 1 }
+                            { 0.376470596, 0, 0.149019614, 0 }
                         }
                     }
                 }
@@ -6829,9 +6893,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.160784319, 0.482352942, 1, 0 }
-                            { 0.160784319, 0.482352942, 1, 0.37000075 }
-                            { 0.160784319, 0.482352942, 1, 0 }
+                            { 1, 0.160006106, 0.160006106, 0 }
+                            { 1, 0.160006106, 0.160006106, 0.37000075 }
+                            { 1, 0.160006106, 0.160006106, 0 }
                         }
                     }
                 }
@@ -6886,7 +6950,7 @@ entries: map[hash,embed] = {
                     }
                 }
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0, 0.333333343, 1, 0.330000013 }
+                    constantValue: vec4 = { 1, 0, 0, 0.330006868 }
                 }
                 pass: i16 = 500
                 alphaRef: u8 = 0
@@ -7366,7 +7430,7 @@ entries: map[hash,embed] = {
                     }
                 }
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0, 0.333333343, 1, 0.800000012 }
+                    constantValue: vec4 = { 1, 0, 0, 0.800000012 }
                 }
                 pass: i16 = 1500
                 alphaRef: u8 = 0
@@ -7416,7 +7480,7 @@ entries: map[hash,embed] = {
                     }
                 }
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0, 0.333333343, 1, 0.800000012 }
+                    constantValue: vec4 = { 1, 0, 0, 0.800000012 }
                 }
                 pass: i16 = 1500
                 alphaRef: u8 = 0
@@ -7763,7 +7827,7 @@ entries: map[hash,embed] = {
                     }
                 }
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0, 0.666666687, 1, 1 }
+                    constantValue: vec4 = { 1, 0, 0.23137255, 1 }
                 }
                 pass: i16 = 1
                 meshRenderFlags: u8 = 0
@@ -7851,9 +7915,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.431372553, 1, 0 }
-                            { 0, 0.431372553, 1, 0.501960814 }
-                            { 0, 0.431372553, 1, 0 }
+                            { 1, 0.101960786, 0.101960786, 0 }
+                            { 1, 0.101960786, 0.101960786, 0.501960814 }
+                            { 1, 0.101960786, 0.101960786, 0 }
                         }
                     }
                 }
@@ -8011,9 +8075,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.333333343, 1, 0 }
-                            { 0, 0.333333343, 1, 0.501960814 }
-                            { 0, 0.333333343, 1, 0 }
+                            { 1, 0, 0, 0 }
+                            { 1, 0, 0, 0.501960814 }
+                            { 1, 0, 0, 0 }
                         }
                     }
                 }
@@ -8150,9 +8214,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.180392161, 0.603921592, 1, 0 }
-                            { 0.180392161, 0.603921592, 1, 1 }
-                            { 0.180392161, 0.603921592, 1, 0 }
+                            { 1, 0.184313729, 0.266666681, 0 }
+                            { 1, 0.184313729, 0.266666681, 1 }
+                            { 1, 0.184313729, 0.266666681, 0 }
                         }
                     }
                 }
@@ -8283,6 +8347,25 @@ entries: map[hash,embed] = {
                 primitive: pointer = VfxPrimitiveArbitraryQuad {}
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    0.095238097
+                                    0.266666681
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    1
+                                    1
+                                    0.180899903
+                                    0
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -8301,10 +8384,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.180392161, 0.603921592, 1, 0 }
-                            { 0, 0.258823544, 0.600000024, 0.501960814 }
-                            { 0, 0.258823544, 0.600000024, 0.501960814 }
-                            { 0, 0.258823544, 0.600000024, 0 }
+                            { 1, 0, 0, 0 }
+                            { 0.607843161, 0, 0, 0.501960814 }
+                            { 0.607843161, 0, 0, 0.501960814 }
+                            { 0.607843161, 0, 0, 0 }
                         }
                     }
                 }
@@ -8453,9 +8536,9 @@ entries: map[hash,embed] = {
                             0.5
                         }
                         values: list[vec4] = {
-                            { 0.874509811, 0.862745106, 0.937254906, 1 }
-                            { 0.0392156877, 0.58431375, 1, 1 }
-                            { 0, 0.0313725509, 1, 1 }
+                            { 0.286274523, 0.188235298, 0.772549033, 1 }
+                            { 1, 0.0313725509, 0.694117665, 1 }
+                            { 1, 0, 0, 1 }
                             { 0.0509803928, 0.0352941193, 0.223529413, 1 }
                             { 0.0705882385, 0.0352941193, 0.164705887, 1 }
                         }
@@ -8616,10 +8699,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.501960814, 0.717647076, 1, 0.689997733 }
-                            { 0.239215687, 0.607843161, 1, 0.689997733 }
-                            { 0, 0.384313732, 1, 0.345004112 }
-                            { 0, 0.156862751, 0.360784322, 0 }
+                            { 1, 0.510002315, 0.730006874, 0.689997733 }
+                            { 1, 0.234001055, 0.558240533, 0.689997733 }
+                            { 1, 0, 0, 0.345004112 }
+                            { 0.333333343, 0, 0.363572061, 0 }
                         }
                     }
                 }
@@ -8777,8 +8860,8 @@ entries: map[hash,embed] = {
                             0.5
                         }
                         values: list[vec4] = {
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.701960802, 1, 1 }
+                            { 1, 0, 0.0156862754, 1 }
+                            { 1, 0.0470588244, 0.635294139, 1 }
                         }
                     }
                 }
@@ -8842,7 +8925,7 @@ entries: map[hash,embed] = {
                 }
                 blendMode: u8 = 4
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0, 0.333333343, 1, 1 }
+                    constantValue: vec4 = { 1, 0, 0.0980392173, 1 }
                 }
                 pass: i16 = 201
                 depthBiasFactors: vec2 = { -1, -60 }
@@ -8910,7 +8993,7 @@ entries: map[hash,embed] = {
                 }
                 blendMode: u8 = 1
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0, 0.333333343, 1, 1 }
+                    constantValue: vec4 = { 1, 0, 0, 1 }
                 }
                 pass: i16 = 90
                 depthBiasFactors: vec2 = { -1, -60 }
@@ -8981,9 +9064,9 @@ entries: map[hash,embed] = {
                             0.5
                         }
                         values: list[vec4] = {
-                            { 0.874509811, 0.862745106, 0.937254906, 1 }
-                            { 0.0392156877, 0.58431375, 1, 1 }
-                            { 0, 0.0313725509, 1, 1 }
+                            { 0.286274523, 0.188235298, 0.772549033, 1 }
+                            { 1, 0.0313725509, 0.694117665, 1 }
+                            { 1, 0, 0, 1 }
                             { 0.0509803928, 0.0352941193, 0.223529413, 1 }
                             { 0.0705882385, 0.0352941193, 0.164705887, 1 }
                         }
@@ -9143,9 +9226,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.129411772, 0, 0.360784322, 0.749996185 }
-                            { 0.129411772, 0, 0.360784322, 0.749996185 }
-                            { 0.129411772, 0, 0.360784322, 0 }
+                            { 0.360006094, 0, 0.130006865, 0.749996185 }
+                            { 0.360006094, 0, 0.130006865, 0.749996185 }
+                            { 0.360006094, 0, 0.130006865, 0 }
                         }
                     }
                 }
@@ -9207,9 +9290,9 @@ entries: map[hash,embed] = {
                             0.5
                         }
                         values: list[vec4] = {
-                            { 0.874509811, 0.862745106, 0.937254906, 1 }
-                            { 0.0392156877, 0.58431375, 1, 1 }
-                            { 0, 0.0313725509, 1, 1 }
+                            { 0.286274523, 0.188235298, 0.772549033, 1 }
+                            { 1, 0.0313725509, 0.694117665, 1 }
+                            { 1, 0, 0, 1 }
                             { 0.0509803928, 0.0352941193, 0.223529413, 1 }
                             { 0.0705882385, 0.0352941193, 0.164705887, 1 }
                         }
@@ -9344,7 +9427,7 @@ entries: map[hash,embed] = {
                 }
                 blendMode: u8 = 5
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0.0941176489, 0, 0.43921569, 1 }
+                    constantValue: vec4 = { 0.43921569, 0, 0.0941176489, 1 }
                 }
                 pass: i16 = 200
                 alphaErosionDefinition: pointer = VfxAlphaErosionDefinitionData {
@@ -9424,6 +9507,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -9442,10 +9540,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.333333343, 1, 0 }
-                            { 0, 0.333333343, 1, 0.37000075 }
-                            { 0, 0.333333343, 1, 0.37000075 }
-                            { 0, 0.333333343, 1, 0 }
+                            { 1, 0, 0, 0 }
+                            { 1, 0, 0, 0.37000075 }
+                            { 1, 0, 0, 0.37000075 }
+                            { 1, 0, 0, 0 }
                         }
                     }
                 }
@@ -9754,9 +9852,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.431372553, 1, 0.200000003 }
-                            { 0, 0.431372553, 1, 0.200000003 }
-                            { 0, 0.431372553, 1, 0.200000003 }
+                            { 1, 0.0500038154, 0.229999244, 0.200000003 }
+                            { 1, 0.0500038154, 0.229999244, 0.200000003 }
+                            { 1, 0.0500038154, 0.229999244, 0.200000003 }
                         }
                     }
                 }
@@ -9831,9 +9929,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 1 }
+                            { 1, 0.13333334, 0.13333334, 1 }
+                            { 1, 0.13333334, 0.13333334, 1 }
+                            { 1, 0.13333334, 0.13333334, 1 }
                         }
                     }
                 }
@@ -9913,9 +10011,9 @@ entries: map[hash,embed] = {
                             0.5
                         }
                         values: list[vec4] = {
-                            { 0.874509811, 0.862745106, 0.937254906, 0.500007629 }
-                            { 0.0392156877, 0.58431375, 1, 0.500007629 }
-                            { 0, 0.0313725509, 1, 0.500007629 }
+                            { 0.286274523, 0.188235298, 0.772549033, 0.500007629 }
+                            { 1, 0.0313725509, 0.694117665, 0.500007629 }
+                            { 1, 0, 0, 0.500007629 }
                             { 0.0509803928, 0.0352941193, 0.223529413, 0.500007629 }
                             { 0.0705882385, 0.0352941193, 0.164705887, 0.500007629 }
                         }
@@ -10203,7 +10301,7 @@ entries: map[hash,embed] = {
                 }
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
-                    constantValue: vec4 = { 0, 0.333333343, 1, 1 }
+                    constantValue: vec4 = { 1, 0, 0.0470588244, 1 }
                 }
                 color: embed = ValueColor {
                     constantValue: vec4 = { 1, 1, 1, 0.500007629 }
@@ -10318,11 +10416,11 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.333333343, 1, 0 }
-                            { 0, 0.333333343, 1, 0 }
-                            { 0, 0.333333343, 1, 0.500007629 }
-                            { 0, 0.333333343, 1, 0.500007629 }
-                            { 0, 0.333333343, 1, 0 }
+                            { 1, 0, 0.0200045779, 0 }
+                            { 1, 0, 0.0200045779, 0 }
+                            { 1, 0, 0.0200045779, 0.500007629 }
+                            { 1, 0, 0.0200045779, 0.500007629 }
+                            { 1, 0, 0.0200045779, 0 }
                         }
                     }
                 }
@@ -10372,6 +10470,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    1
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -10390,10 +10503,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.501960814, 0.717647076, 1, 0 }
-                            { 0.501960814, 0.717647076, 1, 1 }
-                            { 0.501960814, 0.717647076, 1, 1 }
-                            { 0.501960814, 0.717647076, 1, 0 }
+                            { 1, 0.494117647, 0.588235319, 0 }
+                            { 1, 0.494117647, 0.588235319, 1 }
+                            { 1, 0.494117647, 0.588235319, 1 }
+                            { 1, 0.494117647, 0.588235319, 0 }
                         }
                     }
                 }
@@ -10476,9 +10589,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.0745098069, 0.211764708, 1, 0 }
-                            { 0.0470588244, 0.192156866, 1, 1 }
-                            { 0.0470588244, 0.192156866, 1, 0 }
+                            { 1, 0, 0.0200045779, 0 }
+                            { 1, 0, 0.0200045779, 1 }
+                            { 1, 0, 0.0200045779, 0 }
                         }
                     }
                 }
@@ -10636,9 +10749,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.0745098069, 0.211764708, 1, 0 }
-                            { 0.0470588244, 0.192156866, 1, 1 }
-                            { 0.0470588244, 0.192156866, 1, 0 }
+                            { 1, 0, 0.0200045779, 0 }
+                            { 1, 0, 0.0200045779, 1 }
+                            { 1, 0, 0.0200045779, 0 }
                         }
                     }
                 }
@@ -10793,13 +10906,13 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.0823529437, 0.372549027, 1, 0.500007629 }
-                            { 0.0823529437, 0.372549027, 1, 0.500007629 }
-                            { 0.0823529437, 0.372549027, 1, 0.500007629 }
-                            { 0.0823529437, 0.372549027, 1, 0.500007629 }
-                            { 0.0823529437, 0.372549027, 1, 0.431379139 }
-                            { 0.0823529437, 0.372549027, 1, 0.0661774799 }
-                            { 0.0823529437, 0.372549027, 1, 0 }
+                            { 1, 0, 0.0166312568, 0.500007629 }
+                            { 1, 0, 0.0200045779, 0.500007629 }
+                            { 1, 0, 0.0200045779, 0.500007629 }
+                            { 1, 0, 0.0200045779, 0.500007629 }
+                            { 1, 0, 0.0200045779, 0.431379139 }
+                            { 1, 0, 0.0200045779, 0.0661774799 }
+                            { 1, 0, 0.0200045779, 0 }
                         }
                     }
                 }
@@ -10880,11 +10993,11 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.168627456, 0.929411769, 1, 0.669993162 }
+                            { 0.170000762, 0.930006862, 1, 0.669993162 }
                             { 0.337254912, 0.278431386, 1, 0.669993162 }
-                            { 0, 0.164705887, 1, 0.669993162 }
-                            { 0, 0.309803933, 0.501960814, 0.669993162 }
-                            { 0.0588235296, 0.121568628, 0.219607845, 0 }
+                            { 1, 0, 0, 0.669993162 }
+                            { 0.333333343, 0, 0.498039216, 0.669993162 }
+                            { 0.188235298, 0.0588235296, 0.223529413, 0 }
                         }
                     }
                 }
@@ -10965,11 +11078,11 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.0666666701, 0.0705882385, 0.0823529437, 1 }
-                            { 0.0156862754, 0.0588235296, 0.0823529437, 1 }
-                            { 0, 0, 0.0823529437, 1 }
-                            { 0.0392156877, 0, 0.0274509806, 1 }
-                            { 0.0196078438, 0.00392156886, 0.0156862754, 0 }
+                            { 0.0823529437, 0.072018452, 0.0684659779, 1 }
+                            { 0.0823529437, 0.06039216, 0.015824683, 1 }
+                            { 0.0823529437, 0, 0, 1 }
+                            { 0.0274509806, 0, 0.0410149954, 1 }
+                            { 0.0155017301, 0.00484429067, 0.0184083041, 0 }
                         }
                     }
                 }
@@ -11040,10 +11153,7 @@ entries: map[hash,embed] = {
                 primitive: pointer = VfxPrimitiveArbitraryQuad {}
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
-                    0xecbec3b3: pointer = 0x44d038f0 {
-                        0xd0a13ad9: list[f32] = {}
-                        0x41b52f57: list[vec4] = {}
-                    }
+                    constantValue: vec4 = { 1, 1, 1, 0.850003839 }
                 }
                 color: embed = ValueColor {
                     constantValue: vec4 = { 1, 1, 1, 0.500007629 }
@@ -11057,8 +11167,8 @@ entries: map[hash,embed] = {
                         }
                         values: list[vec4] = {
                             { 1, 0.874509811, 0.831372559, 0.500007629 }
-                            { 0.200000003, 1, 0.945098042, 0.500007629 }
-                            { 0, 0.298039228, 1, 0.500007629 }
+                            { 1, 0.733333349, 0.192156866, 0.500007629 }
+                            { 1, 0, 0, 0.500007629 }
                             { 0.333333343, 0, 0.498039216, 0.500007629 }
                             { 0.188235298, 0.0588235296, 0.223529413, 0 }
                         }
@@ -11361,6 +11471,25 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    0.095238097
+                                    0.266666681
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    1
+                                    1
+                                    0.180899903
+                                    0
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -11800,11 +11929,11 @@ entries: map[hash,embed] = {
                             0.5
                         }
                         values: list[vec4] = {
-                            { 0.349019617, 0.666666687, 0.772549033, 1 }
-                            { 0.0392156877, 0.53725493, 1, 0.965686262 }
-                            { 0, 0.200000003, 0.600000024, 0.270588249 }
-                            { 0.0549019612, 0.0980392173, 0.223529413, 0.137254909 }
-                            { 0.0705882385, 0.0392156877, 0.160784319, 0 }
+                            { 0.772549033, 0.349019617, 0.592156887, 1 }
+                            { 1, 0.0313725509, 0.694117665, 0.965686262 }
+                            { 0.600000024, 0, 0, 0.270588249 }
+                            { 0.223529413, 0.0549019612, 0.149019614, 0.137254909 }
+                            { 0.0699931309, 0.0399938971, 0.160006106, 0 }
                         }
                     }
                 }
@@ -12112,9 +12241,9 @@ entries: map[hash,embed] = {
                             0.800000012
                         }
                         values: list[vec4] = {
-                            { 0.501960814, 0.666666687, 1, 1 }
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0, 1, 1 }
+                            { 1, 0.305882365, 0.513725519, 1 }
+                            { 1, 0.194325268, 0, 1 }
+                            { 1, 0, 0, 1 }
                         }
                     }
                 }
@@ -12663,9 +12792,9 @@ entries: map[hash,embed] = {
                             0.800000012
                         }
                         values: list[vec4] = {
-                            { 0.501960814, 0.666666687, 1, 0 }
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0, 1, 0 }
+                            { 1, 0.305882365, 0.513725519, 0 }
+                            { 1, 0.194325268, 0, 1 }
+                            { 1, 0, 0, 0 }
                         }
                     }
                 }
@@ -12798,9 +12927,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.180392161, 0.603921592, 1, 1 }
-                            { 0.180392161, 0.603921592, 1, 0.118894182 }
-                            { 0.180392161, 0.603921592, 1, 0 }
+                            { 1, 0.200000003, 0.239215687, 1 }
+                            { 1, 0.200000003, 0.239215687, 0.118894182 }
+                            { 1, 0.200000003, 0.239215687, 0 }
                         }
                     }
                 }
@@ -12870,8 +12999,8 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.113725491, 0, 1, 1 }
-                            { 0.113725491, 0, 1, 0 }
+                            { 0.176470593, 0.0196078438, 0.0235294122, 1 }
+                            { 0.176470593, 0.0196078438, 0.0235294122, 0 }
                         }
                     }
                 }
@@ -12942,11 +13071,11 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.113725491, 0, 1, 0 }
-                            { 0.113725491, 0, 1, 0.500007629 }
-                            { 0.113725491, 0, 1, 0.500007629 }
-                            { 0.113725491, 0, 1, 0.164288223 }
-                            { 0.113725491, 0, 1, 0 }
+                            { 1, 0, 0, 0 }
+                            { 1, 0, 0, 0.500007629 }
+                            { 1, 0, 0, 0.500007629 }
+                            { 1, 0, 0, 0.164288223 }
+                            { 1, 0, 0, 0 }
                         }
                     }
                 }
@@ -13038,10 +13167,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0, 1, 0 }
-                            { 0, 0, 1, 1 }
-                            { 0, 0, 1, 1 }
-                            { 0, 0, 1, 0.328571439 }
+                            { 1, 0.0549019612, 0.149019614, 0 }
+                            { 1, 0.0549019612, 0.149019614, 1 }
+                            { 1, 0.0549019612, 0.149019614, 1 }
+                            { 1, 0.0549019612, 0.149019614, 0.328571439 }
                             { 0, 0, 0, 0 }
                         }
                     }
@@ -13134,11 +13263,11 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.0588235296, 0.356862754, 1, 0 }
-                            { 0.0588235296, 0.356862754, 1, 1 }
-                            { 0.0588235296, 0.356862754, 1, 1 }
-                            { 0.0588235296, 0.356862754, 1, 0.328571439 }
-                            { 0.0588235296, 0.356862754, 1, 0 }
+                            { 1, 0, 0.215686277, 0 }
+                            { 1, 0, 0.215686277, 1 }
+                            { 1, 0, 0.215686277, 1 }
+                            { 1, 0, 0.215686277, 0.328571439 }
+                            { 1, 0, 0.215686277, 0 }
                         }
                     }
                 }
@@ -13761,9 +13890,9 @@ entries: map[hash,embed] = {
                             0.800000012
                         }
                         values: list[vec4] = {
-                            { 0.113725491, 0, 1, 1 }
-                            { 0.113725491, 0, 1, 1 }
-                            { 0.113725491, 0, 1, 1 }
+                            { 1, 0.305882365, 0.513725519, 1 }
+                            { 1, 0.194325268, 0, 1 }
+                            { 1, 0, 0, 1 }
                         }
                     }
                 }
@@ -14596,6 +14725,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -14680,6 +14824,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -14762,6 +14921,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -14843,6 +15017,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -15203,7 +15392,7 @@ entries: map[hash,embed] = {
                     constantValue: f32 = 1
                 }
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0, 0, 1, 1 }
+                    constantValue: vec4 = { 1, 0, 0, 1 }
                 }
                 pass: i16 = 101
                 birthRotation0: embed = ValueVector3 {
@@ -15284,6 +15473,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -15302,10 +15506,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.0588235296, 0.356862754, 1, 0 }
-                            { 0.0588235296, 0.356862754, 1, 1 }
-                            { 0.0588235296, 0.356862754, 1, 1 }
-                            { 0.0588235296, 0.356862754, 1, 0 }
+                            { 1, 0, 0.298039228, 0 }
+                            { 1, 0, 0.298039228, 1 }
+                            { 1, 0, 0.298039228, 1 }
+                            { 1, 0, 0.298039228, 0 }
                         }
                     }
                 }
@@ -15364,7 +15568,7 @@ entries: map[hash,embed] = {
                     constantValue: f32 = 1
                 }
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0, 0, 1, 1 }
+                    constantValue: vec4 = { 1, 0, 0, 1 }
                 }
                 pass: i16 = 101
                 birthRotation0: embed = ValueVector3 {
@@ -15464,6 +15668,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -15676,6 +15895,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -15758,6 +15992,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -15839,6 +16088,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -16158,6 +16422,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -16242,6 +16521,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -16323,6 +16617,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -16524,6 +16833,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -16612,6 +16936,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 1
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -16696,6 +17035,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -16714,10 +17068,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.835294127, 1, 0 }
-                            { 0, 0.835294127, 1, 1 }
-                            { 0, 0.835294127, 1, 1 }
-                            { 0, 0.835294127, 1, 0 }
+                            { 1, 0, 0.498039216, 0 }
+                            { 1, 0, 0.498039216, 1 }
+                            { 1, 0, 0.498039216, 1 }
+                            { 1, 0, 0.498039216, 0 }
                         }
                     }
                 }
@@ -16837,7 +17191,7 @@ entries: map[hash,embed] = {
                 particleColorTexture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Color_Yone_w_windwall_dust.dds"
                 blendMode: u8 = 1
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0.0117647061, 0, 0.180392161, 0.5 }
+                    constantValue: vec4 = { 0.179995418, 0, 0, 0.500007629 }
                 }
                 miscRenderFlags: u8 = 1
                 particleIsLocalOrientation: flag = true
@@ -16920,7 +17274,7 @@ entries: map[hash,embed] = {
                 }
                 particleColorTexture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Color_Yone_w_windwall_dust.dds"
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0.639215708, 0.796078444, 1, 0.5 }
+                    constantValue: vec4 = { 1, 0.647058845, 0.694117665, 0.501960814 }
                 }
                 pass: i16 = 2
                 miscRenderFlags: u8 = 1
@@ -16983,12 +17337,1906 @@ entries: map[hash,embed] = {
         particlePath: string = "Characters/Yone/Skins/Skin0/Particles/Yone_Base_BA_Tar_Crit_02"
     }
     "Characters/Yone/Skins/Skin0/Particles/Yone_Base_E_Demon_Head" = VfxSystemDefinitionData {
-        complexEmitterDefinitionData: list[pointer] = {}
+        complexEmitterDefinitionData: list[pointer] = {
+            VfxEmitterDefinitionData {
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 8
+                }
+                lifetime: option[f32] = {
+                    1
+                }
+                isSingleParticle: flag = true
+                emitterName: string = "Temp_Mesh1"
+                bindWeight: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                primitive: pointer = VfxPrimitiveMesh {
+                    mMesh: embed = VfxMeshDefinitionData {
+                        mSimpleMeshName: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_E_Face_Mesh.scb"
+                    }
+                }
+                blendMode: u8 = 1
+                disableBackfaceCull: bool = true
+                miscRenderFlags: u8 = 1
+                particleIsLocalOrientation: flag = true
+                birthRotation0: embed = ValueVector3 {
+                    constantValue: vec3 = { 0, -90, 0 }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Wispy_Mask_Vertical.dds"
+                paletteDefinition: pointer = VfxPaletteDefinitionData {}
+                particleUVScrollRate: embed = IntegratedValueVector2 {
+                    constantValue: vec2 = { 0, 1 }
+                    dynamics: pointer = VfxAnimatedVector2fVariableData {
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec2] = {
+                            { 0, 1 }
+                        }
+                    }
+                }
+                textureMult: pointer = VfxTextureMultDefinitionData {
+                    textureMult: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_E_Blue_Flame.dds"
+                    uvScaleMult: embed = ValueVector2 {
+                        constantValue: vec2 = { 0.300000012, 1 }
+                    }
+                    birthUvScrollRateMult: embed = ValueVector2 {
+                        constantValue: vec2 = { 0.5, 0 }
+                    }
+                }
+            }
+            VfxEmitterDefinitionData {
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 0.400000006
+                }
+                lifetime: option[f32] = {
+                    10
+                }
+                rateByVelocityFunction: embed = ValueVector2 {
+                    constantValue: vec2 = { 1, 0 }
+                }
+                emitterName: string = "Pantheon2"
+                importance: u8 = 2
+                birthVelocity: embed = ValueVector3 {
+                    constantValue: vec3 = { 700, 0, 0 }
+                }
+                birthDrag: embed = ValueVector3 {
+                    constantValue: vec3 = { 20, 0, 0 }
+                }
+                EmitterPosition: embed = ValueVector3 {
+                    constantValue: vec3 = { 5, 12, -20 }
+                }
+                primitive: pointer = VfxPrimitiveArbitraryTrail {
+                    mTrail: embed = VfxTrailDefinitionData {
+                        mMode: u8 = 1
+                        mCutoff: f32 = 150
+                        mBirthTilingSize: embed = ValueVector3 {
+                            constantValue: vec3 = { 200, 0, 0 }
+                        }
+                        mSmoothingMode: u8 = 1
+                    }
+                }
+                blendMode: u8 = 5
+                pass: i16 = 50
+                alphaRef: u8 = 0
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 30, 100, 0 }
+                }
+                scale0: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0
+                            1
+                        }
+                        values: list[vec3] = {
+                            { 1, 0, 0 }
+                            { 0, 0, 0 }
+                        }
+                    }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Wispy_Mask_Vertical.dds"
+                particleUVScrollRate: embed = IntegratedValueVector2 {
+                    constantValue: vec2 = { 0, 0.5 }
+                    dynamics: pointer = VfxAnimatedVector2fVariableData {
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec2] = {
+                            { 0, 0.5 }
+                        }
+                    }
+                }
+                textureMult: pointer = VfxTextureMultDefinitionData {
+                    textureMult: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_E_Blue_Flame.dds"
+                    birthUvScrollRateMult: embed = ValueVector2 {
+                        constantValue: vec2 = { 0.200000003, 0 }
+                    }
+                    ParticleIntegratedUvRotateMult: embed = IntegratedValueFloat {
+                        dynamics: pointer = VfxAnimatedFloatVariableData {
+                            times: list[f32] = {
+                                0
+                            }
+                            values: list[f32] = {
+                                0
+                            }
+                        }
+                    }
+                }
+            }
+            VfxEmitterDefinitionData {
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 0.400000006
+                }
+                lifetime: option[f32] = {
+                    10
+                }
+                rateByVelocityFunction: embed = ValueVector2 {
+                    constantValue: vec2 = { 1, 0 }
+                }
+                emitterName: string = "Pantheon6"
+                importance: u8 = 2
+                birthVelocity: embed = ValueVector3 {
+                    constantValue: vec3 = { -700, 0, 0 }
+                }
+                birthDrag: embed = ValueVector3 {
+                    constantValue: vec3 = { 20, 0, 0 }
+                }
+                EmitterPosition: embed = ValueVector3 {
+                    constantValue: vec3 = { -5, 12, -20 }
+                }
+                primitive: pointer = VfxPrimitiveArbitraryTrail {
+                    mTrail: embed = VfxTrailDefinitionData {
+                        mMode: u8 = 1
+                        mCutoff: f32 = 150
+                        mBirthTilingSize: embed = ValueVector3 {
+                            constantValue: vec3 = { 200, 0, 0 }
+                        }
+                        mSmoothingMode: u8 = 1
+                    }
+                }
+                blendMode: u8 = 5
+                pass: i16 = 50
+                alphaRef: u8 = 0
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 30, 100, 0 }
+                }
+                scale0: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0
+                            1
+                        }
+                        values: list[vec3] = {
+                            { 1, 0, 0 }
+                            { 0, 0, 0 }
+                        }
+                    }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Wispy_Mask_Vertical.dds"
+                particleUVScrollRate: embed = IntegratedValueVector2 {
+                    constantValue: vec2 = { 0, 0.5 }
+                    dynamics: pointer = VfxAnimatedVector2fVariableData {
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec2] = {
+                            { 0, 0.5 }
+                        }
+                    }
+                }
+                textureMult: pointer = VfxTextureMultDefinitionData {
+                    textureMult: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_E_Blue_Flame.dds"
+                    birthUvScrollRateMult: embed = ValueVector2 {
+                        constantValue: vec2 = { 0.200000003, 0 }
+                    }
+                    ParticleIntegratedUvRotateMult: embed = IntegratedValueFloat {
+                        dynamics: pointer = VfxAnimatedFloatVariableData {
+                            times: list[f32] = {
+                                0
+                            }
+                            values: list[f32] = {
+                                0
+                            }
+                        }
+                    }
+                }
+            }
+            VfxEmitterDefinitionData {
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 30
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 0.075000003
+                }
+                lifetime: option[f32] = {
+                    10
+                }
+                rateByVelocityFunction: embed = ValueVector2 {
+                    constantValue: vec2 = { 1, 0 }
+                }
+                emitterName: string = "Pantheon11"
+                importance: u8 = 2
+                birthVelocity: embed = ValueVector3 {
+                    constantValue: vec3 = { 800, 0, 0 }
+                }
+                birthDrag: embed = ValueVector3 {
+                    constantValue: vec3 = { 20, 0, 0 }
+                }
+                EmitterPosition: embed = ValueVector3 {
+                    constantValue: vec3 = { 5, 12, -20 }
+                }
+                primitive: pointer = VfxPrimitiveArbitraryTrail {
+                    mTrail: embed = VfxTrailDefinitionData {
+                        mMode: u8 = 1
+                        mCutoff: f32 = 150
+                        mBirthTilingSize: embed = ValueVector3 {
+                            constantValue: vec3 = { 200, 0, 0 }
+                        }
+                        mSmoothingMode: u8 = 1
+                    }
+                }
+                blendMode: u8 = 4
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 0, 1, 1, 1 }
+                }
+                pass: i16 = 500
+                alphaRef: u8 = 0
+                miscRenderFlags: u8 = 1
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 4, 100, 0 }
+                }
+                scale0: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0
+                            1
+                        }
+                        values: list[vec3] = {
+                            { 1, 0, 0 }
+                            { 0, 0, 0 }
+                        }
+                    }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/common_color-hold.dds"
+                particleUVScrollRate: embed = IntegratedValueVector2 {
+                    constantValue: vec2 = { 0, 0.5 }
+                    dynamics: pointer = VfxAnimatedVector2fVariableData {
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec2] = {
+                            { 0, 0.5 }
+                        }
+                    }
+                }
+            }
+            VfxEmitterDefinitionData {
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 0.075000003
+                }
+                lifetime: option[f32] = {
+                    10
+                }
+                rateByVelocityFunction: embed = ValueVector2 {
+                    constantValue: vec2 = { 1, 0 }
+                }
+                emitterName: string = "Pantheon12"
+                importance: u8 = 2
+                birthVelocity: embed = ValueVector3 {
+                    constantValue: vec3 = { -800, 0, 0 }
+                }
+                birthDrag: embed = ValueVector3 {
+                    constantValue: vec3 = { 20, 0, 0 }
+                }
+                EmitterPosition: embed = ValueVector3 {
+                    constantValue: vec3 = { -5, 12, -20 }
+                }
+                primitive: pointer = VfxPrimitiveArbitraryTrail {
+                    mTrail: embed = VfxTrailDefinitionData {
+                        mMode: u8 = 1
+                        mCutoff: f32 = 150
+                        mBirthTilingSize: embed = ValueVector3 {
+                            constantValue: vec3 = { 200, 0, 0 }
+                        }
+                        mSmoothingMode: u8 = 1
+                    }
+                }
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 0, 1, 1, 1 }
+                }
+                pass: i16 = 100
+                alphaRef: u8 = 0
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 4, 100, 0 }
+                }
+                scale0: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0
+                            1
+                        }
+                        values: list[vec3] = {
+                            { 1, 0, 0 }
+                            { 0, 0, 0 }
+                        }
+                    }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/common_color-hold.dds"
+                particleUVScrollRate: embed = IntegratedValueVector2 {
+                    constantValue: vec2 = { 0, 0.5 }
+                    dynamics: pointer = VfxAnimatedVector2fVariableData {
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec2] = {
+                            { 0, 0.5 }
+                        }
+                    }
+                }
+            }
+            VfxEmitterDefinitionData {
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 0.150000006
+                }
+                lifetime: option[f32] = {
+                    10
+                }
+                rateByVelocityFunction: embed = ValueVector2 {
+                    constantValue: vec2 = { 1, 0 }
+                }
+                emitterName: string = "Pantheon13"
+                importance: u8 = 2
+                birthVelocity: embed = ValueVector3 {
+                    constantValue: vec3 = { 800, 0, 0 }
+                }
+                birthDrag: embed = ValueVector3 {
+                    constantValue: vec3 = { 20, 0, 0 }
+                }
+                EmitterPosition: embed = ValueVector3 {
+                    constantValue: vec3 = { 5, 12, -20 }
+                }
+                primitive: pointer = VfxPrimitiveArbitraryTrail {
+                    mTrail: embed = VfxTrailDefinitionData {
+                        mMode: u8 = 1
+                        mCutoff: f32 = 150
+                        mBirthTilingSize: embed = ValueVector3 {
+                            constantValue: vec3 = { 200, 0, 0 }
+                        }
+                        mSmoothingMode: u8 = 1
+                    }
+                }
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 0, 0, 1, 1 }
+                }
+                pass: i16 = 50
+                alphaRef: u8 = 0
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 6, 100, 0 }
+                }
+                scale0: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0
+                            1
+                        }
+                        values: list[vec3] = {
+                            { 1, 0, 0 }
+                            { 0, 0, 0 }
+                        }
+                    }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/common_color-hold.dds"
+                particleUVScrollRate: embed = IntegratedValueVector2 {
+                    constantValue: vec2 = { 0, 0.5 }
+                    dynamics: pointer = VfxAnimatedVector2fVariableData {
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec2] = {
+                            { 0, 0.5 }
+                        }
+                    }
+                }
+            }
+            VfxEmitterDefinitionData {
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 0.150000006
+                }
+                lifetime: option[f32] = {
+                    10
+                }
+                rateByVelocityFunction: embed = ValueVector2 {
+                    constantValue: vec2 = { 1, 0 }
+                }
+                emitterName: string = "Pantheon14"
+                importance: u8 = 2
+                birthVelocity: embed = ValueVector3 {
+                    constantValue: vec3 = { -800, 0, 0 }
+                }
+                birthDrag: embed = ValueVector3 {
+                    constantValue: vec3 = { 20, 0, 0 }
+                }
+                EmitterPosition: embed = ValueVector3 {
+                    constantValue: vec3 = { -5, 12, -20 }
+                }
+                primitive: pointer = VfxPrimitiveArbitraryTrail {
+                    mTrail: embed = VfxTrailDefinitionData {
+                        mMode: u8 = 1
+                        mBirthTilingSize: embed = ValueVector3 {
+                            constantValue: vec3 = { 200, 0, 0 }
+                        }
+                        mSmoothingMode: u8 = 1
+                    }
+                }
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 0, 0, 1, 1 }
+                }
+                pass: i16 = 50
+                alphaRef: u8 = 0
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 6, 100, 0 }
+                }
+                scale0: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0
+                            1
+                        }
+                        values: list[vec3] = {
+                            { 1, 0, 0 }
+                            { 0, 0, 0 }
+                        }
+                    }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/common_color-hold.dds"
+                particleUVScrollRate: embed = IntegratedValueVector2 {
+                    constantValue: vec2 = { 0, 0.5 }
+                    dynamics: pointer = VfxAnimatedVector2fVariableData {
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec2] = {
+                            { 0, 0.5 }
+                        }
+                    }
+                }
+            }
+        }
         particleName: string = "Yone_Base_E_Demon_Head"
         particlePath: string = "Characters/Yone/Skins/Skin0/Particles/Yone_Base_E_Demon_Head"
     }
     "Characters/Yone/Skins/Skin0/Particles/Yone_Base_E_Invulnerable_Buf" = VfxSystemDefinitionData {
-        complexEmitterDefinitionData: list[pointer] = {}
+        complexEmitterDefinitionData: list[pointer] = {
+            VfxEmitterDefinitionData {
+                timeBeforeFirstEmission: f32 = 0.0500000007
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 2
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 0.200000003
+                }
+                particleLinger: option[f32] = {
+                    10.1999998
+                }
+                lifetime: option[f32] = {
+                    1
+                }
+                isSingleParticle: flag = true
+                emitterName: string = "Basic"
+                importance: u8 = 2
+                bindWeight: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 0.627451003, 0.0901960805, 0.125490203, 1 }
+                    dynamics: pointer = VfxAnimatedColorVariableData {
+                        times: list[f32] = {
+                            0
+                            1
+                        }
+                        values: list[vec4] = {
+                            { 0.627451003, 0.0901960805, 0.125490203, 1 }
+                            { 0.627451003, 0.0901960805, 0.125490203, 0 }
+                        }
+                    }
+                }
+                pass: i16 = 100
+                miscRenderFlags: u8 = 1
+                isUniformScale: flag = true
+                birthRotation0: embed = ValueVector3 {
+                    constantValue: vec3 = { 360, 0, 0 }
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0
+                                    1
+                                }
+                            }
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 360, 0, 0 }
+                        }
+                    }
+                }
+                birthRotationalVelocity0: embed = ValueVector3 {
+                    constantValue: vec3 = { 150, 0, 0 }
+                }
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 350, 200, 0 }
+                }
+                scale0: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0
+                            0.200000003
+                        }
+                        values: list[vec3] = {
+                            { 0, 0, 0 }
+                            { 1, 1, 1 }
+                        }
+                    }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Flash_Add.dds"
+            }
+            VfxEmitterDefinitionData {
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 10
+                }
+                particleLinger: option[f32] = {
+                    0.300000012
+                }
+                lifetime: option[f32] = {
+                    1
+                }
+                emitterName: string = "ground_purple"
+                bindWeight: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                primitive: pointer = VfxPrimitiveArbitraryQuad {}
+                blendMode: u8 = 5
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 0.160784319, 0, 0.00784313772, 0.200000003 }
+                    dynamics: pointer = VfxAnimatedColorVariableData {
+                        times: list[f32] = {
+                            0
+                            0.949999988
+                            0.970000029
+                            1
+                        }
+                        values: list[vec4] = {
+                            { 0.160784319, 0, 0.00784313772, 0.0595986024 }
+                            { 0.160784319, 0, 0.0039061883, 0.200000003 }
+                            { 0.160784319, 0, 0, 0.200000003 }
+                            { 0.160784319, 0, 0, 0.200000003 }
+                        }
+                    }
+                }
+                pass: i16 = 500
+                isUniformScale: flag = true
+                birthRotation0: embed = ValueVector3 {
+                    constantValue: vec3 = { 90, 0, 0 }
+                }
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 95, 175, 175 }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_base_e_dash_sub.dds"
+            }
+            VfxEmitterDefinitionData {
+                timeBeforeFirstEmission: f32 = 0.0500000007
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 3
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 0.5
+                }
+                particleLinger: option[f32] = {
+                    5
+                }
+                lifetime: option[f32] = {
+                    1
+                }
+                isSingleParticle: flag = true
+                emitterName: string = "swirl"
+                bindWeight: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                SpawnShape: pointer = 0xee39916f {
+                    emitOffset: vec3 = { 0, 90, 0 }
+                }
+                primitive: pointer = VfxPrimitiveMesh {
+                    mMesh: embed = VfxMeshDefinitionData {
+                        mSimpleMeshName: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Swirl.scb"
+                    }
+                }
+                blendMode: u8 = 4
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 1, 0, 0.0156862754, 1 }
+                    dynamics: pointer = VfxAnimatedColorVariableData {
+                        times: list[f32] = {
+                            0
+                            0.400000006
+                            1
+                        }
+                        values: list[vec4] = {
+                            { 1, 0, 0.0078123766, 0 }
+                            { 1, 0, 0.0156862754, 1 }
+                            { 1, 0, 0, 0 }
+                        }
+                    }
+                }
+                disableBackfaceCull: bool = true
+                uvScrollClamp: flag = true
+                birthRotation0: embed = ValueVector3 {
+                    constantValue: vec3 = { -90, 1, 0 }
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0
+                                    360
+                                }
+                            }
+                            VfxProbabilityTableData {}
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { -90, 1, 0 }
+                        }
+                    }
+                }
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { -1.5, 1.5, 1 }
+                }
+                scale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 2, 2, 3 }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Cross_Stars.dds"
+                birthUvScrollRate: embed = ValueVector2 {
+                    constantValue: vec2 = { 0, 1 }
+                }
+                birthUVOffset: embed = ValueVector2 {
+                    constantValue: vec2 = { 0, -0.300000012 }
+                }
+            }
+            VfxEmitterDefinitionData {
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 10
+                }
+                lifetime: option[f32] = {
+                    10
+                }
+                isSingleParticle: flag = true
+                emitterName: string = "up_glow"
+                bindWeight: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                EmitterPosition: embed = ValueVector3 {
+                    constantValue: vec3 = { 0, -15, 0 }
+                }
+                primitive: pointer = VfxPrimitiveMesh {
+                    mMesh: embed = VfxMeshDefinitionData {
+                        mSimpleMeshName: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Cylinder.scb"
+                    }
+                }
+                blendMode: u8 = 1
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 0.910002291, 0.910002291, 0.910002291, 1 }
+                }
+                disableBackfaceCull: bool = true
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 0.75, 2, 0.75 }
+                }
+                scale0: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0
+                            0.100000001
+                            1
+                        }
+                        values: list[vec3] = {
+                            { 1, 1, 1 }
+                            { 1, 1.10000002, 1 }
+                            { 1, 1, 1 }
+                        }
+                    }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Streaks_Vertical.dds"
+                paletteDefinition: pointer = VfxPaletteDefinitionData {
+                    paletteTexture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_E_Smoke_Palette.dds"
+                    palleteSrcMixColor: embed = ValueColor {
+                        constantValue: vec4 = { 0, 1, 0, 0 }
+                    }
+                    PaletteUAnimationCurve: embed = ValueFloat {
+                        constantValue: f32 = 2
+                        dynamics: pointer = VfxAnimatedFloatVariableData {
+                            times: list[f32] = {
+                                0
+                                1
+                            }
+                            values: list[f32] = {
+                                0
+                                2
+                            }
+                        }
+                    }
+                }
+                birthUvScrollRate: embed = ValueVector2 {
+                    constantValue: vec2 = { 0.0199999996, 0.300000012 }
+                }
+                texAddressModeBase: u8 = 1
+                uvScale: embed = ValueVector2 {
+                    constantValue: vec2 = { 0.75, 1 }
+                }
+                textureMult: pointer = VfxTextureMultDefinitionData {
+                    textureMult: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Mask_Edge_Vertical.dds"
+                }
+            }
+            VfxEmitterDefinitionData {
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 8
+                }
+                particleLinger: option[f32] = {
+                    5
+                }
+                isSingleParticle: flag = true
+                emitterName: string = "Fresnel"
+                importance: u8 = 2
+                birthVelocity: embed = ValueVector3 {
+                    constantValue: vec3 = { 10, 0, 10 }
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    -1
+                                    1
+                                }
+                            }
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    -1
+                                    1
+                                }
+                            }
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 10, 0, 10 }
+                        }
+                    }
+                }
+                Linger: pointer = VfxLingerDefinitionData {
+                    UseSeparateLingerColor: flag = true
+                }
+                bindWeight: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                primitive: pointer = VfxPrimitiveAttachedMesh {
+                    mMesh: embed = VfxMeshDefinitionData {
+                        mLockMeshToAttachment: bool = true
+                    }
+                }
+                blendMode: u8 = 4
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 1, 0, 0.130006865, 0.500007629 }
+                }
+                pass: i16 = 500
+                reflectionDefinition: pointer = VfxReflectionDefinitionData {
+                    reflectionMapTexture: string = "ASSETS/Shared/Particles/Generic_Blue_Cubemap.dds"
+                    reflectionOpacityDirect: f32 = -2
+                    reflectionFresnel: f32 = 0.150000006
+                    reflectionFresnelColor: vec4 = { 0.349019617, 0, 0, 1 }
+                    fresnel: f32 = 0.5
+                    fresnelColor: vec4 = { 0, 0, 0, 1 }
+                }
+                particleIsLocalOrientation: flag = true
+                isUniformScale: flag = true
+                hasPostRotateOrientation: flag = true
+                isRandomStartFrame: flag = true
+                isRotationEnabled: flag = true
+                birthRotation0: embed = ValueVector3 {
+                    constantValue: vec3 = { 0, 180, 0 }
+                }
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 1.00199997, 1, 1 }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/common_color-hold.dds"
+                numFrames: u16 = 4
+                birthUvScrollRate: embed = ValueVector2 {
+                    constantValue: vec2 = { 0.400000006, 0.200000003 }
+                }
+            }
+            VfxEmitterDefinitionData {
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 6
+                }
+                lifetime: option[f32] = {
+                    6
+                }
+                isSingleParticle: flag = true
+                childParticleSetDefinition: pointer = VfxChildParticleSetDefinitionData {
+                    childrenIdentifiers: list[embed] = {
+                        VfxChildIdentifier {
+                            effectKey: hash = "Yone_E_Timer"
+                        }
+                    }
+                }
+                emitterName: string = "timer"
+                bindWeight: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleIsLocalOrientation: flag = true
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 2, 2, 2 }
+                }
+            }
+            VfxEmitterDefinitionData {
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 10
+                }
+                lifetime: option[f32] = {
+                    10
+                }
+                isSingleParticle: flag = true
+                emitterName: string = "up_glow4"
+                bindWeight: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                EmitterPosition: embed = ValueVector3 {
+                    constantValue: vec3 = { 0, -15, 0 }
+                }
+                primitive: pointer = VfxPrimitiveMesh {
+                    mMesh: embed = VfxMeshDefinitionData {
+                        mSimpleMeshName: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Cylinder.scb"
+                    }
+                }
+                blendMode: u8 = 1
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 0.910002291, 0, 0.00999465957, 0.200000003 }
+                }
+                pass: i16 = 1
+                disableBackfaceCull: bool = true
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 0.75, 1, 0.75 }
+                }
+                scale0: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0
+                            0.100000001
+                            1
+                        }
+                        values: list[vec3] = {
+                            { 1, 1, 1 }
+                            { 1, 1.10000002, 1 }
+                            { 1, 1, 1 }
+                        }
+                    }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Mask_Edge_Vertical.dds"
+            }
+            VfxEmitterDefinitionData {
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 10
+                }
+                lifetime: option[f32] = {
+                    10
+                }
+                isSingleParticle: flag = true
+                emitterName: string = "up_glow5"
+                bindWeight: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                EmitterPosition: embed = ValueVector3 {
+                    constantValue: vec3 = { 0, -15, 0 }
+                }
+                primitive: pointer = VfxPrimitiveMesh {
+                    mMesh: embed = VfxMeshDefinitionData {
+                        mSimpleMeshName: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Cylinder.scb"
+                    }
+                }
+                blendMode: u8 = 1
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 0.910002291, 0.910002291, 0.910002291, 1 }
+                }
+                disableBackfaceCull: bool = true
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 0.75, 2, 0.75 }
+                }
+                scale0: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0
+                            0.100000001
+                            1
+                        }
+                        values: list[vec3] = {
+                            { 1, 1, 1 }
+                            { 1, 1.10000002, 1 }
+                            { 1, 1, 1 }
+                        }
+                    }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Streaks_Vertical.dds"
+                paletteDefinition: pointer = VfxPaletteDefinitionData {
+                    paletteTexture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_E_Smoke_Palette.dds"
+                    palleteSrcMixColor: embed = ValueColor {
+                        constantValue: vec4 = { 0, 1, 0, 0 }
+                    }
+                    PaletteUAnimationCurve: embed = ValueFloat {
+                        constantValue: f32 = 5
+                        dynamics: pointer = VfxAnimatedFloatVariableData {
+                            times: list[f32] = {
+                                0
+                                1
+                            }
+                            values: list[f32] = {
+                                0
+                                5
+                            }
+                        }
+                    }
+                }
+                birthUvScrollRate: embed = ValueVector2 {
+                    constantValue: vec2 = { 0, 0.300000012 }
+                }
+                texAddressModeBase: u8 = 1
+                uvScale: embed = ValueVector2 {
+                    constantValue: vec2 = { 1, 0.5 }
+                }
+                textureMult: pointer = VfxTextureMultDefinitionData {
+                    textureMult: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Mask_Edge_Vertical.dds"
+                }
+            }
+            VfxEmitterDefinitionData {
+                timeBeforeFirstEmission: f32 = 0.0500000007
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 15
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLinger: option[f32] = {
+                    2
+                }
+                lifetime: option[f32] = {
+                    5.5
+                }
+                emitterName: string = "dust"
+                birthDrag: embed = ValueVector3 {
+                    constantValue: vec3 = { 0, 1, 0 }
+                }
+                worldAcceleration: embed = IntegratedValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 0, 0, 0 }
+                        }
+                    }
+                }
+                bindWeight: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                SpawnShape: pointer = VfxShapeCylinder {
+                    flags: u8 = 1
+                    radius: f32 = 30
+                }
+                EmitterPosition: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 0, 0, 0 }
+                        }
+                    }
+                }
+                primitive: pointer = VfxPrimitiveArbitraryQuad {}
+                blendMode: u8 = 1
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 1, 1, 1, 0.250003815 }
+                    dynamics: pointer = VfxAnimatedColorVariableData {
+                        times: list[f32] = {
+                            0
+                            0.215223104
+                            0.328083992
+                            0.635826766
+                            0.769028842
+                            1
+                        }
+                        values: list[vec4] = {
+                            { 1, 1, 1, 0.250003815 }
+                            { 1, 1, 1, 0.250003815 }
+                            { 1, 1, 1, 0.230548263 }
+                            { 1, 1, 1, 0.0894955322 }
+                            { 1, 1, 1, 0.0408566557 }
+                            { 1, 1, 1, 0 }
+                        }
+                    }
+                }
+                pass: i16 = -1
+                miscRenderFlags: u8 = 2
+                isUniformScale: flag = true
+                birthRotation0: embed = ValueVector3 {
+                    constantValue: vec3 = { 90, 0, 360 }
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0
+                                    1
+                                }
+                            }
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 90, 0, 360 }
+                        }
+                    }
+                }
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 175, 1, 1 }
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.600000024
+                                    1
+                                }
+                            }
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 175, 1, 1 }
+                        }
+                    }
+                }
+                scale0: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0.00393700786
+                            0.227361709
+                            0.54585284
+                            1
+                        }
+                        values: list[vec3] = {
+                            { 0.683018863, 0, 0 }
+                            { 0.945282996, 0, 0 }
+                            { 1.17082882, 0, 0 }
+                            { 1.20000005, 0, 0 }
+                        }
+                    }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Smoke_8x8.dds"
+                frameRate: f32 = 60
+                numFrames: u16 = 64
+                paletteDefinition: pointer = VfxPaletteDefinitionData {
+                    paletteTexture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_E_Smoke_Palette.dds"
+                    palleteSrcMixColor: embed = ValueColor {
+                        constantValue: vec4 = { 0, 1, 0, 0 }
+                    }
+                    PaletteUAnimationCurve: embed = ValueFloat {
+                        dynamics: pointer = VfxAnimatedFloatVariableData {
+                            times: list[f32] = {
+                                0
+                                1
+                            }
+                            values: list[f32] = {
+                                0
+                                0
+                            }
+                        }
+                    }
+                    PaletteVAnimationCurve: embed = ValueFloat {
+                        constantValue: f32 = 10
+                        dynamics: pointer = VfxAnimatedFloatVariableData {
+                            times: list[f32] = {
+                                0
+                                1
+                            }
+                            values: list[f32] = {
+                                0
+                                10
+                            }
+                        }
+                    }
+                }
+                texDiv: vec2 = { 8, 8 }
+                uvScale: embed = ValueVector2 {
+                    dynamics: pointer = VfxAnimatedVector2fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    0.48456791
+                                    0.48456791
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    -1
+                                    -1
+                                    1
+                                    1
+                                }
+                            }
+                            VfxProbabilityTableData {}
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec2] = {
+                            { 1, 1 }
+                        }
+                    }
+                }
+            }
+            VfxEmitterDefinitionData {
+                timeBeforeFirstEmission: f32 = 0.0500000007
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 15
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLinger: option[f32] = {
+                    2
+                }
+                lifetime: option[f32] = {
+                    10
+                }
+                emitterName: string = "dust1"
+                birthDrag: embed = ValueVector3 {
+                    constantValue: vec3 = { 0, 1, 0 }
+                }
+                worldAcceleration: embed = IntegratedValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 0, 0, 0 }
+                        }
+                    }
+                }
+                bindWeight: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                SpawnShape: pointer = VfxShapeCylinder {
+                    flags: u8 = 1
+                    radius: f32 = 30
+                }
+                EmitterPosition: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 0, 0, 0 }
+                        }
+                    }
+                }
+                primitive: pointer = VfxPrimitiveArbitraryQuad {}
+                blendMode: u8 = 1
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 1, 1, 1, 0.250003815 }
+                    dynamics: pointer = VfxAnimatedColorVariableData {
+                        times: list[f32] = {
+                            0
+                            0.215223104
+                            0.328083992
+                            0.635826766
+                            0.769028842
+                            1
+                        }
+                        values: list[vec4] = {
+                            { 1, 1, 1, 0.250003815 }
+                            { 1, 1, 1, 0.250003815 }
+                            { 1, 1, 1, 0.230548263 }
+                            { 1, 1, 1, 0.0894955322 }
+                            { 1, 1, 1, 0.0408566557 }
+                            { 1, 1, 1, 0 }
+                        }
+                    }
+                }
+                pass: i16 = -1
+                miscRenderFlags: u8 = 2
+                isUniformScale: flag = true
+                birthRotation0: embed = ValueVector3 {
+                    constantValue: vec3 = { 90, 0, 360 }
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0
+                                    1
+                                }
+                            }
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 90, 0, 360 }
+                        }
+                    }
+                }
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 175, 1, 1 }
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.600000024
+                                    1
+                                }
+                            }
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 175, 1, 1 }
+                        }
+                    }
+                }
+                scale0: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0.00393700786
+                            0.227361709
+                            0.54585284
+                            1
+                        }
+                        values: list[vec3] = {
+                            { 0.683018863, 0, 0 }
+                            { 0.945282996, 0, 0 }
+                            { 1.17082882, 0, 0 }
+                            { 1.20000005, 0, 0 }
+                        }
+                    }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Smoke_8x8.dds"
+                frameRate: f32 = 60
+                numFrames: u16 = 64
+                paletteDefinition: pointer = VfxPaletteDefinitionData {
+                    paletteTexture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_E_Smoke_Palette.dds"
+                    palleteSrcMixColor: embed = ValueColor {
+                        constantValue: vec4 = { 0, 1, 0, 0 }
+                    }
+                    PaletteUAnimationCurve: embed = ValueFloat {
+                        dynamics: pointer = VfxAnimatedFloatVariableData {
+                            times: list[f32] = {
+                                0
+                                1
+                            }
+                            values: list[f32] = {
+                                0
+                                0
+                            }
+                        }
+                    }
+                    PaletteVAnimationCurve: embed = ValueFloat {
+                        constantValue: f32 = 10
+                        dynamics: pointer = VfxAnimatedFloatVariableData {
+                            times: list[f32] = {
+                                0
+                                1
+                            }
+                            values: list[f32] = {
+                                0
+                                10
+                            }
+                        }
+                    }
+                }
+                texDiv: vec2 = { 8, 8 }
+                uvScale: embed = ValueVector2 {
+                    dynamics: pointer = VfxAnimatedVector2fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    0.48456791
+                                    0.48456791
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    -1
+                                    -1
+                                    1
+                                    1
+                                }
+                            }
+                            VfxProbabilityTableData {}
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec2] = {
+                            { 1, 1 }
+                        }
+                    }
+                }
+            }
+            VfxEmitterDefinitionData {
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 10
+                }
+                particleLinger: option[f32] = {
+                    0.300000012
+                }
+                lifetime: option[f32] = {
+                    1
+                }
+                emitterName: string = "ground_purple1"
+                bindWeight: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                EmitterPosition: embed = ValueVector3 {
+                    constantValue: vec3 = { 0, 5, 0 }
+                }
+                primitive: pointer = VfxPrimitiveArbitraryQuad {}
+                blendMode: u8 = 4
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 1, 0, 0, 0.500007629 }
+                    dynamics: pointer = VfxAnimatedColorVariableData {
+                        times: list[f32] = {
+                            0
+                            0.949999988
+                            0.970000029
+                            1
+                        }
+                        values: list[vec4] = {
+                            { 1, 0, 0, 0.148998782 }
+                            { 1, 0, 0, 0.500007629 }
+                            { 1, 0, 0, 0.500007629 }
+                            { 1, 0, 0, 0.500007629 }
+                        }
+                    }
+                }
+                miscRenderFlags: u8 = 1
+                isUniformScale: flag = true
+                birthRotation0: embed = ValueVector3 {
+                    constantValue: vec3 = { 90, 0, 0 }
+                }
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 80, 175, 175 }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_E_Timer_Glow.dds"
+            }
+            VfxEmitterDefinitionData {
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 10
+                }
+                particleLinger: option[f32] = {
+                    0.300000012
+                }
+                lifetime: option[f32] = {
+                    1
+                }
+                emitterName: string = "ground_purple2"
+                bindWeight: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                primitive: pointer = VfxPrimitiveArbitraryQuad {}
+                blendMode: u8 = 1
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 0.396078438, 0, 0.137254909, 0.90196079 }
+                    dynamics: pointer = VfxAnimatedColorVariableData {
+                        times: list[f32] = {
+                            0
+                            0.949999988
+                            0.970000029
+                            1
+                        }
+                        values: list[vec4] = {
+                            { 0.396078438, 0, 0.137254909, 0.268777996 }
+                            { 0.396078438, 0, 0.0683582947, 0.90196079 }
+                            { 0.396078438, 0, 0, 0.90196079 }
+                            { 0.396078438, 0, 0, 0.90196079 }
+                        }
+                    }
+                }
+                pass: i16 = -80
+                miscRenderFlags: u8 = 2
+                isUniformScale: flag = true
+                isFollowingTerrain: flag = true
+                isGroundLayer: flag = true
+                birthRotation0: embed = ValueVector3 {
+                    constantValue: vec3 = { 90, 0, 0 }
+                }
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 200, 175, 175 }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_base_e_dash_sub.dds"
+            }
+            VfxEmitterDefinitionData {
+                timeBeforeFirstEmission: f32 = 0.0500000007
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 20
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 0.25
+                }
+                lifetime: option[f32] = {
+                    1
+                }
+                isSingleParticle: flag = true
+                emitterName: string = "Temp_Ray"
+                birthVelocity: embed = ValueVector3 {
+                    constantValue: vec3 = { 0, 2000, 0 }
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0
+                                    1
+                                }
+                            }
+                            VfxProbabilityTableData {}
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 0, 2000, 0 }
+                        }
+                    }
+                }
+                bindWeight: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                SpawnShape: pointer = VfxShapeCylinder {
+                    flags: u8 = 1
+                    radius: f32 = 100
+                    height: f32 = 200
+                }
+                EmitterPosition: embed = ValueVector3 {
+                    constantValue: vec3 = { 0, -300, 0 }
+                }
+                primitive: pointer = VfxPrimitiveRay {}
+                blendMode: u8 = 4
+                birthColor: embed = ValueColor {
+                    constantValue: vec4 = { 1, 0, 0.431372553, 1 }
+                }
+                color: embed = ValueColor {
+                    dynamics: pointer = VfxAnimatedColorVariableData {
+                        times: list[f32] = {
+                            0
+                            0.200000003
+                            0.486111104
+                            1
+                        }
+                        values: list[vec4] = {
+                            { 1, 1, 1, 0 }
+                            { 1, 1, 1, 1 }
+                            { 1, 1, 1, 0.280821919 }
+                            { 1, 1, 1, 0 }
+                        }
+                    }
+                }
+                birthRotation0: embed = ValueVector3 {
+                    constantValue: vec3 = { 270, 0, 0 }
+                }
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 5, 700, 10 }
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    1
+                                    1
+                                }
+                            }
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.25
+                                    0.75
+                                }
+                            }
+                            VfxProbabilityTableData {}
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 5, 700, 10 }
+                        }
+                    }
+                }
+                scale0: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0
+                            1
+                        }
+                        values: list[vec3] = {
+                            { 5, 1, 0.5 }
+                            { 1, 1, 1 }
+                        }
+                    }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Mask_Center.dds"
+                texAddressModeBase: u8 = 2
+                textureMult: pointer = VfxTextureMultDefinitionData {
+                    textureMult: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Glow_Vertical.dds"
+                }
+            }
+            VfxEmitterDefinitionData {
+                timeBeforeFirstEmission: f32 = 0.0500000007
+                rate: embed = ValueFloat {
+                    constantValue: f32 = 20
+                }
+                particleLifetime: embed = ValueFloat {
+                    constantValue: f32 = 0.25
+                    dynamics: pointer = VfxAnimatedFloatVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.150000006
+                                    1.5
+                                }
+                            }
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[f32] = {
+                            0.25
+                        }
+                    }
+                }
+                particleLinger: option[f32] = {
+                    5
+                }
+                lifetime: option[f32] = {
+                    1
+                }
+                isSingleParticle: flag = true
+                emitterName: string = "Hit"
+                importance: u8 = 2
+                birthVelocity: embed = ValueVector3 {
+                    constantValue: vec3 = { 0, 2300, 0 }
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    -1
+                                    1
+                                }
+                            }
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.200000003
+                                    1
+                                }
+                            }
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    -1
+                                    1
+                                }
+                            }
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 0, 2300, 0 }
+                        }
+                    }
+                }
+                birthDrag: embed = ValueVector3 {
+                    constantValue: vec3 = { 4, 6, 4 }
+                }
+                worldAcceleration: embed = IntegratedValueVector3 {
+                    constantValue: vec3 = { 0, -300, 0 }
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 0, -300, 0 }
+                        }
+                    }
+                }
+                bindWeight: embed = ValueFloat {
+                    constantValue: f32 = 1
+                }
+                SpawnShape: pointer = VfxShapeLegacy {
+                    emitOffset: embed = ValueVector3 {
+                        constantValue: vec3 = { 100, 0, 100 }
+                        dynamics: pointer = VfxAnimatedVector3fVariableData {
+                            probabilityTables: list[pointer] = {
+                                VfxProbabilityTableData {
+                                    keyTimes: list[f32] = {
+                                        0
+                                        1
+                                    }
+                                    keyValues: list[f32] = {
+                                        -1
+                                        1
+                                    }
+                                }
+                                VfxProbabilityTableData {}
+                                VfxProbabilityTableData {
+                                    keyTimes: list[f32] = {
+                                        0
+                                        1
+                                    }
+                                    keyValues: list[f32] = {
+                                        -1
+                                        1
+                                    }
+                                }
+                            }
+                            times: list[f32] = {
+                                0
+                            }
+                            values: list[vec3] = {
+                                { 100, 0, 100 }
+                            }
+                        }
+                    }
+                }
+                EmitterPosition: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 0, 0, 0 }
+                        }
+                    }
+                }
+                primitive: pointer = VfxPrimitiveArbitraryQuad {}
+                blendMode: u8 = 4
+                birthColor: embed = ValueColor {
+                    dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    1
+                                    1
+                                }
+                            }
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec4] = {
+                            { 1, 1, 1, 1 }
+                        }
+                    }
+                }
+                color: embed = ValueColor {
+                    constantValue: vec4 = { 1, 0.917647064, 0.541176498, 1 }
+                    dynamics: pointer = VfxAnimatedColorVariableData {
+                        times: list[f32] = {
+                            0
+                            0.129999995
+                            0.200000003
+                            1
+                        }
+                        values: list[vec4] = {
+                            { 1, 0.88885814, 0.320461363, 1 }
+                            { 0.992156863, 0.917647064, 0.273771614, 1 }
+                            { 0.996078432, 0.323875427, 0.0551787764, 1 }
+                            { 0.109803922, 0.00359861599, 0.0148558244, 1 }
+                        }
+                    }
+                }
+                pass: i16 = 111
+                depthBiasFactors: vec2 = { -1, -30 }
+                isDirectionOriented: flag = true
+                isRandomStartFrame: flag = true
+                birthRotation0: embed = ValueVector3 {
+                    constantValue: vec3 = { 90, -90, 0 }
+                }
+                directionVelocityScale: f32 = 0.00600000005
+                birthScale0: embed = ValueVector3 {
+                    constantValue: vec3 = { 100, 30, 1 }
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.5
+                                    2
+                                }
+                            }
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.5
+                                    1
+                                }
+                            }
+                            VfxProbabilityTableData {}
+                        }
+                        times: list[f32] = {
+                            0
+                        }
+                        values: list[vec3] = {
+                            { 100, 30, 1 }
+                        }
+                    }
+                }
+                scale0: embed = ValueVector3 {
+                    dynamics: pointer = VfxAnimatedVector3fVariableData {
+                        times: list[f32] = {
+                            0
+                            0.0500000007
+                            0.150000006
+                            1
+                        }
+                        values: list[vec3] = {
+                            { 0, 0, 0 }
+                            { 1.5, 1.5, 1 }
+                            { 1.25, 1.25, 1 }
+                            { 0, 0, 1 }
+                        }
+                    }
+                }
+                texture: string = "ASSETS/Characters/Yone/Skins/Base/Particles/Yone_Base_Cross_Stars.dds"
+            }
+        }
         particleName: string = "Yone_Base_E_Invulnerable_Buf"
         particlePath: string = "Characters/Yone/Skins/Skin0/Particles/Yone_Base_E_Invulnerable_Buf"
     }
@@ -17425,6 +19673,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -17629,6 +19892,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -17710,6 +19988,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -17791,6 +20084,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -17879,6 +20187,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -17897,10 +20220,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.333333343, 1, 0 }
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 0 }
+                            { 1, 0, 0, 0 }
+                            { 1, 0, 0, 1 }
+                            { 1, 0, 0, 1 }
+                            { 1, 0, 0, 0 }
                         }
                     }
                 }
@@ -17962,9 +20285,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.819607854, 0.913725495, 1, 1 }
-                            { 0.819607854, 0.913725495, 1, 1 }
-                            { 0.819607854, 0.913725495, 1, 0 }
+                            { 1, 0.815686285, 0.815686285, 1 }
+                            { 1, 0.815686285, 0.815686285, 1 }
+                            { 1, 0.815686285, 0.815686285, 0 }
                         }
                     }
                 }
@@ -18025,9 +20348,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.0352941193, 0.501960814, 0.749996185 }
-                            { 0, 0.0352941193, 0.501960814, 0.749996185 }
-                            { 0, 0.0352941193, 0.501960814, 0 }
+                            { 0.510002315, 0, 0, 0.749996185 }
+                            { 0.510002315, 0, 0, 0.749996185 }
+                            { 0.510002315, 0, 0, 0 }
                         }
                     }
                 }
@@ -18089,6 +20412,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 1
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -18107,10 +20445,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.333333343, 1, 0 }
-                            { 0, 0.333333343, 1, 0.100007631 }
-                            { 0, 0.333333343, 1, 0.100007631 }
-                            { 0, 0.333333343, 1, 0 }
+                            { 1, 0, 0.0200045779, 0 }
+                            { 1, 0, 0.0200045779, 0.100007631 }
+                            { 1, 0, 0.0200045779, 0.100007631 }
+                            { 1, 0, 0.0200045779, 0 }
                         }
                     }
                 }
@@ -18170,6 +20508,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -18188,10 +20541,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.619607866, 0.835294127, 1, 0 }
-                            { 0.619607866, 0.835294127, 1, 0.0980392173 }
-                            { 0.619607866, 0.835294127, 1, 0.0980392173 }
-                            { 0.619607866, 0.835294127, 1, 0 }
+                            { 1, 0.611764729, 0.611764729, 0 }
+                            { 1, 0.611764729, 0.611764729, 0.0980392173 }
+                            { 1, 0.611764729, 0.611764729, 0.0980392173 }
+                            { 1, 0.611764729, 0.611764729, 0 }
                         }
                     }
                 }
@@ -18251,6 +20604,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 1
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -18269,10 +20637,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.333333343, 1, 0 }
-                            { 0, 0.333333343, 1, 0.300007641 }
-                            { 0, 0.333333343, 1, 0.300007641 }
-                            { 0, 0.333333343, 1, 0 }
+                            { 1, 0, 0, 0 }
+                            { 1, 0, 0, 0.300007641 }
+                            { 1, 0, 0, 0.300007641 }
+                            { 1, 0, 0, 0 }
                         }
                     }
                 }
@@ -18379,10 +20747,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.00392156886, 0, 0.258823544, 0 }
-                            { 0.00392156886, 0, 0.258823544, 0.100007631 }
-                            { 0.00392156886, 0, 0.258823544, 0.100007631 }
-                            { 0.00392156886, 0, 0.258823544, 0 }
+                            { 0.250003815, 0, 0.0699931309, 0 }
+                            { 0.250003815, 0, 0.0699931309, 0.100007631 }
+                            { 0.250003815, 0, 0.0699931309, 0.100007631 }
+                            { 0.250003815, 0, 0.0699931309, 0 }
                         }
                     }
                 }
@@ -18555,10 +20923,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 1, 1, 1, 0 }
-                            { 0.43921569, 0.580392182, 1, 0.168627456 }
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 1 }
+                            { 0, 0, 1, 0 }
+                            { 0.388235301, 0.294117659, 0.576470613, 0.168627456 }
+                            { 1, 0, 0, 1 }
+                            { 1, 0, 0, 1 }
                         }
                     }
                 }
@@ -18964,9 +21332,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0, 1, 0 }
-                            { 0, 0, 1, 1 }
-                            { 0, 0, 1, 0 }
+                            { 1, 0, 0, 0 }
+                            { 1, 0, 0, 1 }
+                            { 1, 0, 0, 0 }
                         }
                     }
                 }
@@ -18975,7 +21343,7 @@ entries: map[hash,embed] = {
                     reflectionMapTexture: string = "ASSETS/Shared/Particles/Generic_Blue_Cubemap.dds"
                     reflectionOpacityDirect: f32 = -2
                     reflectionFresnel: f32 = 0.0500000007
-                    reflectionFresnelColor: vec4 = { 0, 0, 1, 1 }
+                    reflectionFresnelColor: vec4 = { 1, 0, 0, 1 }
                     fresnelColor: vec4 = { 0, 0, 0, 1 }
                 }
                 particleIsLocalOrientation: flag = true
@@ -19068,9 +21436,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.0588235296, 0.356862754, 1, 0 }
-                            { 0.0588235296, 0.356862754, 1, 1 }
-                            { 0.0588235296, 0.356862754, 1, 0 }
+                            { 1, 0, 0.23137255, 0 }
+                            { 1, 0, 0.23137255, 1 }
+                            { 1, 0, 0.23137255, 0 }
                         }
                     }
                 }
@@ -19125,7 +21493,7 @@ entries: map[hash,embed] = {
                 }
                 blendMode: u8 = 5
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0, 0.113725491, 0.678431392, 1 }
+                    constantValue: vec4 = { 0.678431392, 0, 0.101960786, 1 }
                 }
                 pass: i16 = 100
                 isUniformScale: flag = true
@@ -19151,7 +21519,7 @@ entries: map[hash,embed] = {
                 }
                 blendMode: u8 = 5
                 color: embed = ValueColor {
-                    constantValue: vec4 = { 0, 0.0235294122, 0.34117648, 1 }
+                    constantValue: vec4 = { 0.34117648, 0, 0, 1 }
                 }
                 pass: i16 = 100
                 alphaErosionDefinition: pointer = VfxAlphaErosionDefinitionData {
@@ -19202,9 +21570,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.0588235296, 0.356862754, 1, 0 }
-                            { 0.0588235296, 0.356862754, 1, 0.749019623 }
-                            { 0.0588235296, 0.356862754, 1, 0.749019623 }
+                            { 1, 0, 0, 0 }
+                            { 1, 0, 0, 0.749019623 }
+                            { 1, 0, 0, 0.749019623 }
                         }
                     }
                 }
@@ -19268,9 +21636,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.00784313772, 0.0784313753, 0.431372553, 0 }
-                            { 0.00784313772, 0.0784313753, 0.431372553, 1 }
-                            { 0.00784313772, 0.0784313753, 0.431372553, 1 }
+                            { 0.43921569, 0.00784313772, 0.0784313753, 0 }
+                            { 0.43921569, 0.00784313772, 0.0784313753, 1 }
+                            { 0.43921569, 0.00784313772, 0.0784313753, 1 }
                         }
                     }
                 }
@@ -19923,7 +22291,7 @@ entries: map[hash,embed] = {
                 }
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
-                    constantValue: vec4 = { 0.600000024, 0.847058833, 1, 1 }
+                    constantValue: vec4 = { 1, 0.607843161, 0.615686297, 1 }
                 }
                 color: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
@@ -19995,10 +22363,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.321568638, 0.490196079, 1, 0.500007629 }
-                            { 0.321568638, 0.490196079, 1, 0.500007629 }
-                            { 0.321568638, 0.490196079, 1, 0.500007629 }
-                            { 0.321568638, 0.490196079, 1, 0 }
+                            { 1, 0.319996953, 0.319996953, 0.500007629 }
+                            { 1, 0.319996953, 0.319996953, 0.500007629 }
+                            { 1, 0.319996953, 0.319996953, 0.500007629 }
+                            { 1, 0.319996953, 0.319996953, 0 }
                         }
                     }
                 }
@@ -20045,7 +22413,7 @@ entries: map[hash,embed] = {
                 }
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
-                    constantValue: vec4 = { 0.466666669, 0.635294139, 0.972549021, 1 }
+                    constantValue: vec4 = { 0.972549021, 0.458823532, 0.458823532, 1 }
                 }
                 color: embed = ValueColor {
                     constantValue: vec4 = { 1, 1, 1, 0.500007629 }
@@ -20113,10 +22481,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 1 }
-                            { 0, 0.333333343, 1, 0 }
+                            { 1, 0, 0.250980407, 1 }
+                            { 1, 0, 0.250980407, 1 }
+                            { 1, 0, 0.250980407, 1 }
+                            { 1, 0, 0.250980407, 0 }
                         }
                     }
                 }
@@ -20162,7 +22530,7 @@ entries: map[hash,embed] = {
                     constantValue: f32 = 1
                 }
                 birthColor: embed = ValueColor {
-                    constantValue: vec4 = { 0.180392161, 0.796078444, 1, 1 }
+                    constantValue: vec4 = { 1, 0.172549024, 0.352941185, 1 }
                 }
                 color: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
@@ -20230,10 +22598,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.321568638, 0.580392182, 1, 0.500007629 }
-                            { 0.321568638, 0.580392182, 1, 0.500007629 }
-                            { 0.321568638, 0.580392182, 1, 0.500007629 }
-                            { 0.321568638, 0.580392182, 1, 0 }
+                            { 1, 0.319996953, 0.319996953, 0.500007629 }
+                            { 1, 0.319996953, 0.319996953, 0.500007629 }
+                            { 1, 0.319996953, 0.319996953, 0.500007629 }
+                            { 1, 0.319996953, 0.319996953, 0 }
                         }
                     }
                 }
@@ -20289,10 +22657,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.196078435, 0.65882355, 0.650003791 }
-                            { 0, 0.196078435, 0.65882355, 0.650003791 }
-                            { 0, 0.196078435, 0.65882355, 0.650003791 }
-                            { 0, 0.196078435, 0.65882355, 0 }
+                            { 0.659998477, 0, 0.130006865, 0.650003791 }
+                            { 0.659998477, 0, 0.130006865, 0.650003791 }
+                            { 0.659998477, 0, 0.130006865, 0.650003791 }
+                            { 0.659998477, 0, 0.130006865, 0 }
                         }
                     }
                 }
@@ -20405,8 +22773,8 @@ entries: map[hash,embed] = {
                             0.200000003
                         }
                         values: list[vec4] = {
-                            { 0, 0, 1, 1 }
-                            { 0, 0, 1, 1 }
+                            { 1, 0, 0, 1 }
+                            { 1, 0, 0, 1 }
                             { 0, 0, 0, 0 }
                         }
                     }
@@ -20427,7 +22795,7 @@ entries: map[hash,embed] = {
                         }
                         values: list[vec2] = {
                             { 1, -1 }
-                            { 0, 0 }
+                            { 0, -0 }
                         }
                     }
                 }
@@ -20464,8 +22832,8 @@ entries: map[hash,embed] = {
                             0.200000003
                         }
                         values: list[vec4] = {
-                            { 0, 0, 1, 1 }
-                            { 0, 0, 1, 1 }
+                            { 1, 0, 0, 1 }
+                            { 1, 0, 0, 1 }
                             { 0, 0, 0, 0 }
                         }
                     }
@@ -20486,7 +22854,7 @@ entries: map[hash,embed] = {
                         }
                         values: list[vec2] = {
                             { -1, 1 }
-                            { 0, 0 }
+                            { -0, 0 }
                         }
                     }
                 }
@@ -20581,9 +22949,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.101960786, 0.250980407, 1, 0 }
-                            { 0.101960786, 0.250980407, 1, 1 }
-                            { 0.101960786, 0.250980407, 1, 0 }
+                            { 1, 0.0941176489, 0.105882354, 0 }
+                            { 1, 0.0941176489, 0.105882354, 1 }
+                            { 1, 0.0941176489, 0.105882354, 0 }
                         }
                     }
                 }
@@ -20748,6 +23116,21 @@ entries: map[hash,embed] = {
                 blendMode: u8 = 4
                 birthColor: embed = ValueColor {
                     dynamics: pointer = VfxAnimatedColorVariableData {
+                        probabilityTables: list[pointer] = {
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {}
+                            VfxProbabilityTableData {
+                                keyTimes: list[f32] = {
+                                    0
+                                    1
+                                }
+                                keyValues: list[f32] = {
+                                    0.800000012
+                                    1
+                                }
+                            }
+                        }
                         times: list[f32] = {
                             0
                         }
@@ -20766,10 +23149,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.666666687, 1, 0 }
-                            { 0, 0.666666687, 1, 1 }
-                            { 0, 0.666666687, 1, 1 }
-                            { 0, 0.666666687, 1, 0 }
+                            { 1, 0, 0.498039216, 0 }
+                            { 1, 0, 0.498039216, 1 }
+                            { 1, 0, 0.498039216, 1 }
+                            { 1, 0, 0.498039216, 0 }
                         }
                     }
                 }
@@ -20824,9 +23207,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0, 0.568627477, 1, 0 }
-                            { 0, 0.568627477, 1, 1 }
-                            { 0, 0.568627477, 1, 0 }
+                            { 1, 0, 0.266666681, 0 }
+                            { 1, 0, 0.266666681, 1 }
+                            { 1, 0, 0.266666681, 0 }
                         }
                     }
                 }
@@ -21083,9 +23466,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.0117647061, 0.0784313753, 0.588235319, 0 }
-                            { 0.0117647061, 0.0784313753, 0.588235319, 1 }
-                            { 0.0117647061, 0.0784313753, 0.588235319, 1 }
+                            { 0.58431375, 0.0117647061, 0.0117647061, 0 }
+                            { 0.58431375, 0.0117647061, 0.0117647061, 1 }
+                            { 0.58431375, 0.0117647061, 0.0117647061, 1 }
                         }
                     }
                 }
@@ -21207,9 +23590,9 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.0588235296, 0.764705896, 1, 0 }
-                            { 0.0588235296, 0.764705896, 1, 1 }
-                            { 0.0588235296, 0.764705896, 1, 0 }
+                            { 1, 0.0941176489, 0.105882354, 0 }
+                            { 1, 0.0941176489, 0.105882354, 1 }
+                            { 1, 0.0941176489, 0.105882354, 0 }
                         }
                     }
                 }
@@ -21962,10 +24345,10 @@ entries: map[hash,embed] = {
                             1
                         }
                         values: list[vec4] = {
-                            { 0.0588235296, 0.764705896, 1, 0.839993894 }
-                            { 0.0588235296, 0.764705896, 1, 0.477643609 }
-                            { 0.0588235296, 0.764705896, 1, 0.164704695 }
-                            { 0.0588235296, 0.764705896, 1, 0 }
+                            { 1, 0.059998475, 0.639993906, 0.839993894 }
+                            { 1, 0.059998475, 0.639993906, 0.477643609 }
+                            { 1, 0.059998475, 0.639993906, 0.164704695 }
+                            { 1, 0.059998475, 0.639993906, 0 }
                         }
                     }
                 }
@@ -22189,31 +24572,31 @@ entries: map[hash,embed] = {
         name: string = "Characters/Yone/Skins/Skin0/Materials/GhostBladePanning_inst"
         samplerValues: list2[embed] = {
             StaticMaterialShaderSamplerDef {
-                samplerName: string = "Diffuse_Texture"
+                textureName: string = "Diffuse_Texture"
                 texturePath: string = "ASSETS/Characters/Yone/Skins/Base/Mat_GhostBlade.dds"
                 addressU: u32 = 1
                 addressV: u32 = 1
                 addressW: u32 = 1
             }
             StaticMaterialShaderSamplerDef {
-                samplerName: string = "Scroll_01"
+                textureName: string = "Scroll_01"
                 texturePath: string = "ASSETS/Characters/Yone/Skins/Base/yone_ghostblade_mat.dds"
                 addressW: u32 = 1
             }
             StaticMaterialShaderSamplerDef {
-                samplerName: string = "Mask"
+                textureName: string = "Mask"
                 texturePath: string = "ASSETS/Characters/Yone/Skins/Base/yone_ghostblade_mat.dds"
                 addressU: u32 = 1
                 addressV: u32 = 1
                 addressW: u32 = 1
             }
             StaticMaterialShaderSamplerDef {
-                samplerName: string = "Scroll_02"
+                textureName: string = "Scroll_02"
                 texturePath: string = "ASSETS/Characters/Yone/Skins/Base/yone_ghostblade_mat.dds"
                 addressW: u32 = 1
             }
             StaticMaterialShaderSamplerDef {
-                samplerName: string = "Scroll_03"
+                textureName: string = "Scroll_03"
                 texturePath: string = "ASSETS/Characters/Yone/Skins/Base/yone_ghostblade_mat.dds"
                 addressW: u32 = 1
             }
@@ -22229,7 +24612,7 @@ entries: map[hash,embed] = {
             }
             StaticMaterialShaderParamDef {
                 name: string = "ScrollTexture_Control01"
-                value: vec4 = { -0.3, 0.15, 0, 0 }
+                value: vec4 = { -0.300000012, 0.150000006, 0, 0 }
             }
             StaticMaterialShaderParamDef {
                 name: string = "Texture_UV_Scale02"
